@@ -1,12 +1,12 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 0
   },
@@ -14,13 +14,15 @@
     "GeeksForGeeks_Number_of_factors": true,
     "LeetCode_Linked_List_Cycle": true,
     "GeeksForGeeks_Prime_Number": true,
-    "GeeksForGeeks_Armstrong_Numbers": true
+    "GeeksForGeeks_Armstrong_Numbers": true,
+    "LeetCode_Remove_Duplicates_from_Sorted_List_II": true
   },
   "activityHistory": {
     "2026-08-16": 3,
-    "2026-08-17": 1
+    "2026-08-17": 2
   },
   "todayProblems": [
-    "Armstrong Numbers"
+    "Armstrong Numbers",
+    "Remove Duplicates from Sorted List II"
   ]
 }
