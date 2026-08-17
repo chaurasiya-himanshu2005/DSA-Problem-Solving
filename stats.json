@@ -1,11 +1,11 @@
 {
-  "totalSolved": 3,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-08-16",
-  "todayCount": 3,
+  "totalSolved": 4,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-08-17",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -13,14 +13,14 @@
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
     "LeetCode_Linked_List_Cycle": true,
-    "GeeksForGeeks_Prime_Number": true
+    "GeeksForGeeks_Prime_Number": true,
+    "GeeksForGeeks_Armstrong_Numbers": true
   },
   "activityHistory": {
-    "2026-08-16": 3
+    "2026-08-16": 3,
+    "2026-08-17": 1
   },
   "todayProblems": [
-    "Number of factors",
-    "Linked List Cycle",
-    "Prime Number"
+    "Armstrong Numbers"
   ]
 }
