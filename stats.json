@@ -1,14 +1,14 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 4,
     "medium": 3,
     "hard": 0,
-    "basic": 1
+    "basic": 2
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -18,15 +18,17 @@
     "LeetCode_Remove_Duplicates_from_Sorted_List_II": true,
     "LeetCode_Rotate_List": true,
     "LeetCode_Count_Number_of_Distinct_Integers_After_Reverse_Operations": true,
-    "Codeforces_4A_-_Watermelon": true
+    "Codeforces_4A_-_Watermelon": true,
+    "Codeforces_1295A_-_Display_The_Number": true
   },
   "activityHistory": {
     "2026-08-16": 3,
     "2026-08-17": 3,
-    "2026-08-18": 2
+    "2026-08-18": 3
   },
   "todayProblems": [
     "Count Number of Distinct Integers After Reverse Operations",
-    "4A - Watermelon"
+    "4A - Watermelon",
+    "1295A - Display The Number"
   ]
 }
