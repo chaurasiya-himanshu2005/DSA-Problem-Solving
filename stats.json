@@ -1,14 +1,14 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 4,
     "medium": 3,
     "hard": 0,
-    "basic": 2
+    "basic": 3
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -19,16 +19,18 @@
     "LeetCode_Rotate_List": true,
     "LeetCode_Count_Number_of_Distinct_Integers_After_Reverse_Operations": true,
     "Codeforces_4A_-_Watermelon": true,
-    "Codeforces_1295A_-_Display_The_Number": true
+    "Codeforces_1295A_-_Display_The_Number": true,
+    "Codeforces_508D_-_Tanya_and_Password": true
   },
   "activityHistory": {
     "2026-08-16": 3,
     "2026-08-17": 3,
-    "2026-08-18": 3
+    "2026-08-18": 4
   },
   "todayProblems": [
     "Count Number of Distinct Integers After Reverse Operations",
     "4A - Watermelon",
-    "1295A - Display The Number"
+    "1295A - Display The Number",
+    "508D - Tanya and Password"
   ]
 }
