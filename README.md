@@ -10,3 +10,4 @@
 | 8 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 18 Aug 2026 | 12:22 pm |
 | 9 | [1295A - Display The Number](./Codeforces/basic/1295A%20-%20Display%20The%20Number) | [Codeforces](https://codeforces.com/problemset/problem/1295/A) | basic | 18 Aug 2026 | 12:45 pm |
 | 10 | [508D - Tanya and Password](./Codeforces/basic/508D%20-%20Tanya%20and%20Password) | [Codeforces](https://codeforces.com/problemset/problem/508/D) | basic | 18 Aug 2026 | 12:45 pm |
+| 11 | [1875C - Jellyfish and Green Apple](./Codeforces/basic/1875C%20-%20Jellyfish%20and%20Green%20Apple) | [Codeforces](https://codeforces.com/problemset/problem/1875/C) | basic | 18 Aug 2026 | 12:45 pm |
