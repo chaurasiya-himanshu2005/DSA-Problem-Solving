@@ -1,14 +1,14 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 4,
     "medium": 3,
     "hard": 0,
-    "basic": 6
+    "basic": 7
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -23,12 +23,13 @@
     "Codeforces_508D_-_Tanya_and_Password": true,
     "Codeforces_1875C_-_Jellyfish_and_Green_Apple": true,
     "Codeforces_282A_-_Bit": true,
-    "Codeforces_1624B_-_Make_AP": true
+    "Codeforces_1624B_-_Make_AP": true,
+    "Codeforces_71A_-_Way_Too_Long_Words": true
   },
   "activityHistory": {
     "2026-08-16": 3,
     "2026-08-17": 3,
-    "2026-08-18": 7
+    "2026-08-18": 8
   },
   "todayProblems": [
     "Count Number of Distinct Integers After Reverse Operations",
@@ -37,6 +38,7 @@
     "508D - Tanya and Password",
     "1875C - Jellyfish and Green Apple",
     "282A - Bit",
-    "1624B - Make AP"
+    "1624B - Make AP",
+    "71A - Way Too Long Words"
   ]
 }
