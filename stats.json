@@ -1,12 +1,12 @@
 {
-  "totalSolved": 6,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-08-17",
-  "todayCount": 3,
+  "totalSolved": 7,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-08-18",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 0
   },
@@ -16,15 +16,15 @@
     "GeeksForGeeks_Prime_Number": true,
     "GeeksForGeeks_Armstrong_Numbers": true,
     "LeetCode_Remove_Duplicates_from_Sorted_List_II": true,
-    "LeetCode_Rotate_List": true
+    "LeetCode_Rotate_List": true,
+    "LeetCode_Count_Number_of_Distinct_Integers_After_Reverse_Operations": true
   },
   "activityHistory": {
     "2026-08-16": 3,
-    "2026-08-17": 3
+    "2026-08-17": 3,
+    "2026-08-18": 1
   },
   "todayProblems": [
-    "Armstrong Numbers",
-    "Remove Duplicates from Sorted List II",
-    "Rotate List"
+    "Count Number of Distinct Integers After Reverse Operations"
   ]
 }

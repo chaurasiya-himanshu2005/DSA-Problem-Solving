@@ -6,3 +6,4 @@
 | 4 | [Armstrong Numbers](./GeeksForGeeks/Easy/Armstrong%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Easy | 17 Aug 2026 | 04:12 pm |
 | 5 | [Remove Duplicates from Sorted List II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20List%20II) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | 17 Aug 2026 | 06:21 pm |
 | 6 | [Rotate List](./LeetCode/Medium/Rotate%20List) | [LeetCode](https://leetcode.com/problems/rotate-list/) | Medium | 17 Aug 2026 | 07:29 pm |
+| 7 | [Count Number of Distinct Integers After Reverse Operations](./LeetCode/Medium/Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations) | [LeetCode](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | Medium | 18 Aug 2026 | 09:48 am |
