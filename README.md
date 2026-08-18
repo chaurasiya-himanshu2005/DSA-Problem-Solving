@@ -15,3 +15,4 @@
 | 13 | [1624B - Make AP](./Codeforces/basic/1624B%20-%20Make%20AP) | [Codeforces](https://codeforces.com/problemset/problem/1624/B) | basic | 18 Aug 2026 | 12:45 pm |
 | 14 | [71A - Way Too Long Words](./Codeforces/basic/71A%20-%20Way%20Too%20Long%20Words) | [Codeforces](https://codeforces.com/problemset/problem/71/A) | basic | 18 Aug 2026 | 02:38 pm |
 | 15 | [Baseball Game](./LeetCode/Easy/Baseball%20Game) | [LeetCode](https://leetcode.com/problems/baseball-game/) | Easy | 18 Aug 2026 | 05:18 pm |
+| 16 | [Ways to Divide in 4 Parts](./GeeksForGeeks/Basic/Ways%20to%20Divide%20in%204%20Parts) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/divide-the-number5320/1) | Basic | 18 Aug 2026 | 11:38 pm |
