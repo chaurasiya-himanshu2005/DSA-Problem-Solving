@@ -18,3 +18,4 @@
 | 16 | [Ways to Divide in 4 Parts](./GeeksForGeeks/Basic/Ways%20to%20Divide%20in%204%20Parts) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/divide-the-number5320/1) | Basic | 18 Aug 2026 | 11:38 pm |
 | 17 | [Pronic Number](./GeeksForGeeks/Medium/Pronic%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pronic-number0729/1) | Medium | 19 Aug 2026 | 09:56 pm |
 | 18 | [Find Missing Elements](./LeetCode/Easy/Find%20Missing%20Elements) | [LeetCode](https://leetcode.com/problems/find-missing-elements/) | Easy | 19 Aug 2026 | 10:33 pm |
+| 19 | [231A - Team](./Codeforces/basic/231A%20-%20Team) | [Codeforces](https://codeforces.com/problemset/problem/231/A) | basic | 19 Aug 2026 | 10:57 pm |
