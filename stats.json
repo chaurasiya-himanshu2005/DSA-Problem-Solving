@@ -1,13 +1,13 @@
 {
-  "totalSolved": 25,
+  "totalSolved": 26,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-20",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 7,
     "medium": 7,
-    "hard": 0,
+    "hard": 1,
     "basic": 11
   },
   "syncedProblems": {
@@ -35,14 +35,15 @@
     "LeetCode_Transpose_Matrix": true,
     "GeeksForGeeks_Previous_Greater_Element": true,
     "GeeksForGeeks_Next_Smaller_Element": true,
-    "GeeksForGeeks_Next_Greater_Element": true
+    "GeeksForGeeks_Next_Greater_Element": true,
+    "LeetCode_Number_of_Visible_People_in_a_Queue": true
   },
   "activityHistory": {
     "2026-08-16": 3,
     "2026-08-17": 3,
     "2026-08-18": 10,
     "2026-08-19": 3,
-    "2026-08-20": 6
+    "2026-08-20": 7
   },
   "todayProblems": [
     "Factorials in an Array",
@@ -50,6 +51,7 @@
     "Transpose Matrix",
     "Previous Greater Element",
     "Next Smaller Element",
-    "Next Greater Element"
+    "Next Greater Element",
+    "Number of Visible People in a Queue"
   ]
 }
