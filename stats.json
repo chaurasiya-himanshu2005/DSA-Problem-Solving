@@ -1,14 +1,14 @@
 {
-  "totalSolved": 19,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-08-19",
-  "todayCount": 3,
+  "totalSolved": 20,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-08-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
     "medium": 4,
     "hard": 0,
-    "basic": 9
+    "basic": 10
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -29,17 +29,17 @@
     "GeeksForGeeks_Ways_to_Divide_in_4_Parts": true,
     "GeeksForGeeks_Pronic_Number": true,
     "LeetCode_Find_Missing_Elements": true,
-    "Codeforces_231A_-_Team": true
+    "Codeforces_231A_-_Team": true,
+    "GeeksForGeeks_Factorials_in_an_Array": true
   },
   "activityHistory": {
     "2026-08-16": 3,
     "2026-08-17": 3,
     "2026-08-18": 10,
-    "2026-08-19": 3
+    "2026-08-19": 3,
+    "2026-08-20": 1
   },
   "todayProblems": [
-    "Pronic Number",
-    "Find Missing Elements",
-    "231A - Team"
+    "Factorials in an Array"
   ]
 }
