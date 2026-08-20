@@ -20,3 +20,4 @@
 | 18 | [Find Missing Elements](./LeetCode/Easy/Find%20Missing%20Elements) | [LeetCode](https://leetcode.com/problems/find-missing-elements/) | Easy | 19 Aug 2026 | 10:33 pm |
 | 19 | [231A - Team](./Codeforces/basic/231A%20-%20Team) | [Codeforces](https://codeforces.com/problemset/problem/231/A) | basic | 19 Aug 2026 | 10:57 pm |
 | 20 | [Factorials in an Array](./GeeksForGeeks/Basic/Factorials%20in%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial-number2446/1) | Basic | 20 Aug 2026 | 12:07 pm |
+| 21 | [50A - Domino piling](./Codeforces/basic/50A%20-%20Domino%20piling) | [Codeforces](https://codeforces.com/problemset/problem/50/A) | basic | 20 Aug 2026 | 12:20 pm |
