@@ -22,3 +22,4 @@
 | 20 | [Factorials in an Array](./GeeksForGeeks/Basic/Factorials%20in%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial-number2446/1) | Basic | 20 Aug 2026 | 12:07 pm |
 | 21 | [50A - Domino piling](./Codeforces/basic/50A%20-%20Domino%20piling) | [Codeforces](https://codeforces.com/problemset/problem/50/A) | basic | 20 Aug 2026 | 12:20 pm |
 | 22 | [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) | [LeetCode](https://leetcode.com/problems/transpose-matrix/) | Easy | 20 Aug 2026 | 02:08 pm |
+| 23 | [Previous Greater Element](./GeeksForGeeks/Medium/Previous%20Greater%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/previous-greater-element/1) | Medium | 20 Aug 2026 | 03:55 pm |
