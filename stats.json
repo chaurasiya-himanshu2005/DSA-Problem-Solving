@@ -1,14 +1,14 @@
 {
-  "totalSolved": 26,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-08-20",
-  "todayCount": 7,
+  "totalSolved": 27,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-08-21",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
     "medium": 7,
     "hard": 1,
-    "basic": 11
+    "basic": 12
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -36,22 +36,18 @@
     "GeeksForGeeks_Previous_Greater_Element": true,
     "GeeksForGeeks_Next_Smaller_Element": true,
     "GeeksForGeeks_Next_Greater_Element": true,
-    "LeetCode_Number_of_Visible_People_in_a_Queue": true
+    "LeetCode_Number_of_Visible_People_in_a_Queue": true,
+    "GeeksForGeeks_LCM_And_GCD": true
   },
   "activityHistory": {
     "2026-08-16": 3,
     "2026-08-17": 3,
     "2026-08-18": 10,
     "2026-08-19": 3,
-    "2026-08-20": 7
+    "2026-08-20": 7,
+    "2026-08-21": 1
   },
   "todayProblems": [
-    "Factorials in an Array",
-    "50A - Domino piling",
-    "Transpose Matrix",
-    "Previous Greater Element",
-    "Next Smaller Element",
-    "Next Greater Element",
-    "Number of Visible People in a Queue"
+    "LCM And GCD"
   ]
 }
