@@ -27,3 +27,4 @@
 | 25 | [Next Greater Element](./GeeksForGeeks/Medium/Next%20Greater%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | Medium | 20 Aug 2026 | 03:56 pm |
 | 26 | [Number of Visible People in a Queue](./LeetCode/Hard/Number%20of%20Visible%20People%20in%20a%20Queue) | [LeetCode](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | Hard | 20 Aug 2026 | 04:29 pm |
 | 27 | [LCM And GCD](./GeeksForGeeks/Basic/LCM%20And%20GCD) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1) | Basic | 21 Aug 2026 | 02:29 pm |
+| 28 | [Smallest Divisible Digit Product I](./LeetCode/Easy/Smallest%20Divisible%20Digit%20Product%20I) | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy | 22 Aug 2026 | 11:07 am |
