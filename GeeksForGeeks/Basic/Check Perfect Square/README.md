@@ -1,0 +1,21 @@
+# Check Perfect Square
+
+## Difficulty: Basic
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/check-perfect-square5253/1)
+
+## Solved On
+22 Aug 2026 at 11:09 am
+
+<h2><a href="https://www.geeksforgeeks.org/problems/check-perfect-square5253/1">Check Perfect Square</a></h2><h3>Difficulty Level: Basic</h3><hr><p><span style="font-size: 18px;">Given a positive integer <strong>n</strong>, return true if it is a perfect square, otherwise return false. A number is called a perfect square if it can be written in the form a × a, where a is an integer.</span></p>
+<p><strong><span style="font-size: 18px;">Examples:</span></strong></p>
+<pre><strong><span style="font-size: 18px;">Input:</span> </strong><span style="font-size: 18px;"><span style="font-size: 14pt;">n</span> <span style="font-size: 14pt;">= 35</span></span>
+<span style="font-size: 18px;"><strong>Output: </strong>false </span>
+<strong><span style="font-size: 18px;">Explanation:</span> </strong><span style="font-size: 18px;">35 is not a perfect </span><span style="font-size: 18px;">square.</span></pre>
+<pre><strong><span style="font-size: 18px;">Input: </span></strong><span style="font-size: 14pt;">n</span><span style="font-size: 18px;"> = 49</span>
+<strong><span style="font-size: 18px;">Output: </span></strong><span style="font-size: 18px;">true</span>
+<strong><span style="font-size: 18px;">Explanation:</span> </strong><span style="font-size: 18px;">49 is a perfect</span> <span style="font-size: 18px;">square (7 * 7 = 49).</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1&nbsp;</span><span style="background-color: #ffffff; color: #273239; font-family: Nunito; font-size: 14pt;">≤</span><span style="font-size: 18px;">&nbsp;n </span><span style="color: #273239; font-family: Nunito; font-size: 17px; background-color: #ffffff;"><span style="font-size: 14pt;">≤</span> </span><span style="font-size: 18px;">10</span><sup>5</sup></p>

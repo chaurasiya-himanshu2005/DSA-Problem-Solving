@@ -1,14 +1,14 @@
 {
-  "totalSolved": 28,
+  "totalSolved": 29,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-08-22",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 8,
     "medium": 7,
     "hard": 1,
-    "basic": 12
+    "basic": 13
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -38,7 +38,8 @@
     "GeeksForGeeks_Next_Greater_Element": true,
     "LeetCode_Number_of_Visible_People_in_a_Queue": true,
     "GeeksForGeeks_LCM_And_GCD": true,
-    "LeetCode_Smallest_Divisible_Digit_Product_I": true
+    "LeetCode_Smallest_Divisible_Digit_Product_I": true,
+    "GeeksForGeeks_Check_Perfect_Square": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -47,9 +48,10 @@
     "2026-08-19": 3,
     "2026-08-20": 7,
     "2026-08-21": 1,
-    "2026-08-22": 1
+    "2026-08-22": 2
   },
   "todayProblems": [
-    "Smallest Divisible Digit Product I"
+    "Smallest Divisible Digit Product I",
+    "Check Perfect Square"
   ]
 }
