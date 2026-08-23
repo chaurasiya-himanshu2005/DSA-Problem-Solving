@@ -1,11 +1,11 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-08-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 7,
     "hard": 1,
     "basic": 14
@@ -41,7 +41,8 @@
     "LeetCode_Smallest_Divisible_Digit_Product_I": true,
     "GeeksForGeeks_Check_Perfect_Square": true,
     "Codeforces_617A_-_Elephant": true,
-    "LeetCode_Remove_Element": true
+    "LeetCode_Remove_Element": true,
+    "GeeksForGeeks_Sum_1_to_n_Divisors": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -51,9 +52,10 @@
     "2026-08-20": 7,
     "2026-08-21": 1,
     "2026-08-22": 3,
-    "2026-08-23": 1
+    "2026-08-23": 2
   },
   "todayProblems": [
-    "Remove Element"
+    "Remove Element",
+    "Sum 1 to n Divisors"
   ]
 }

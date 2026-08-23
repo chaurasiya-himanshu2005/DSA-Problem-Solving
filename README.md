@@ -31,3 +31,4 @@
 | 29 | [Check Perfect Square](./GeeksForGeeks/Basic/Check%20Perfect%20Square) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-perfect-square5253/1) | Basic | 22 Aug 2026 | 11:09 am |
 | 30 | [617A - Elephant](./Codeforces/basic/617A%20-%20Elephant) | [Codeforces](https://codeforces.com/problemset/problem/617/A) | basic | 22 Aug 2026 | 02:34 pm |
 | 31 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 23 Aug 2026 | 07:11 pm |
+| 32 | [Sum 1 to n Divisors](./GeeksForGeeks/Easy/Sum%201%20to%20n%20Divisors) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1) | Easy | 23 Aug 2026 | 07:12 pm |
