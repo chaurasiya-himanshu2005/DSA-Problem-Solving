@@ -1,14 +1,14 @@
 {
-  "totalSolved": 32,
+  "totalSolved": 33,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-08-23",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 10,
     "medium": 7,
     "hard": 1,
-    "basic": 14
+    "basic": 15
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -42,7 +42,8 @@
     "GeeksForGeeks_Check_Perfect_Square": true,
     "Codeforces_617A_-_Elephant": true,
     "LeetCode_Remove_Element": true,
-    "GeeksForGeeks_Sum_1_to_n_Divisors": true
+    "GeeksForGeeks_Sum_1_to_n_Divisors": true,
+    "Codeforces_112A_-_Petya_and_Strings": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -52,10 +53,11 @@
     "2026-08-20": 7,
     "2026-08-21": 1,
     "2026-08-22": 3,
-    "2026-08-23": 2
+    "2026-08-23": 3
   },
   "todayProblems": [
     "Remove Element",
-    "Sum 1 to n Divisors"
+    "Sum 1 to n Divisors",
+    "112A - Petya and Strings"
   ]
 }
