@@ -30,3 +30,4 @@
 | 28 | [Smallest Divisible Digit Product I](./LeetCode/Easy/Smallest%20Divisible%20Digit%20Product%20I) | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy | 22 Aug 2026 | 11:07 am |
 | 29 | [Check Perfect Square](./GeeksForGeeks/Basic/Check%20Perfect%20Square) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-perfect-square5253/1) | Basic | 22 Aug 2026 | 11:09 am |
 | 30 | [617A - Elephant](./Codeforces/basic/617A%20-%20Elephant) | [Codeforces](https://codeforces.com/problemset/problem/617/A) | basic | 22 Aug 2026 | 02:34 pm |
+| 31 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 23 Aug 2026 | 07:11 pm |

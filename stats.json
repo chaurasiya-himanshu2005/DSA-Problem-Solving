@@ -1,11 +1,11 @@
 {
-  "totalSolved": 30,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-08-22",
-  "todayCount": 3,
+  "totalSolved": 31,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-08-23",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 7,
     "hard": 1,
     "basic": 14
@@ -40,7 +40,8 @@
     "GeeksForGeeks_LCM_And_GCD": true,
     "LeetCode_Smallest_Divisible_Digit_Product_I": true,
     "GeeksForGeeks_Check_Perfect_Square": true,
-    "Codeforces_617A_-_Elephant": true
+    "Codeforces_617A_-_Elephant": true,
+    "LeetCode_Remove_Element": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -49,11 +50,10 @@
     "2026-08-19": 3,
     "2026-08-20": 7,
     "2026-08-21": 1,
-    "2026-08-22": 3
+    "2026-08-22": 3,
+    "2026-08-23": 1
   },
   "todayProblems": [
-    "Smallest Divisible Digit Product I",
-    "Check Perfect Square",
-    "617A - Elephant"
+    "Remove Element"
   ]
 }
