@@ -1,14 +1,14 @@
 {
-  "totalSolved": 35,
+  "totalSolved": 36,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-24",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 11,
     "medium": 7,
     "hard": 1,
-    "basic": 16
+    "basic": 17
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -45,7 +45,8 @@
     "GeeksForGeeks_Sum_1_to_n_Divisors": true,
     "Codeforces_112A_-_Petya_and_Strings": true,
     "LeetCode_Intersection_of_Two_Arrays": true,
-    "GeeksForGeeks_Array_with_All_Palindromes": true
+    "GeeksForGeeks_Array_with_All_Palindromes": true,
+    "Codeforces_266A_-_Stones_on_the_Table": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -56,10 +57,11 @@
     "2026-08-21": 1,
     "2026-08-22": 3,
     "2026-08-23": 3,
-    "2026-08-24": 2
+    "2026-08-24": 3
   },
   "todayProblems": [
     "Intersection of Two Arrays",
-    "Array with All Palindromes"
+    "Array with All Palindromes",
+    "266A - Stones on the Table"
   ]
 }
