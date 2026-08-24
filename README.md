@@ -34,3 +34,4 @@
 | 32 | [Sum 1 to n Divisors](./GeeksForGeeks/Easy/Sum%201%20to%20n%20Divisors) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1) | Easy | 23 Aug 2026 | 07:12 pm |
 | 33 | [112A - Petya and Strings](./Codeforces/basic/112A%20-%20Petya%20and%20Strings) | [Codeforces](https://codeforces.com/problemset/problem/112/A) | basic | 23 Aug 2026 | 07:52 pm |
 | 34 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 24 Aug 2026 | 03:26 pm |
+| 35 | [Array with All Palindromes](./GeeksForGeeks/Basic/Array%20with%20All%20Palindromes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1) | Basic | 24 Aug 2026 | 03:29 pm |
