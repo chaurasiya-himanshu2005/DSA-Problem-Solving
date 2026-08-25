@@ -36,3 +36,4 @@
 | 34 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 24 Aug 2026 | 03:26 pm |
 | 35 | [Array with All Palindromes](./GeeksForGeeks/Basic/Array%20with%20All%20Palindromes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1) | Basic | 24 Aug 2026 | 03:29 pm |
 | 36 | [266A - Stones on the Table](./Codeforces/basic/266A%20-%20Stones%20on%20the%20Table) | [Codeforces](https://codeforces.com/problemset/problem/266/A) | basic | 24 Aug 2026 | 10:19 pm |
+| 37 | [Largest Integer With Given Digit Sum](./LeetCode/Easy/Largest%20Integer%20With%20Given%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | Easy | 25 Aug 2026 | 11:44 am |
