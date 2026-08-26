@@ -1,11 +1,11 @@
 {
-  "totalSolved": 39,
-  "currentStreak": 10,
-  "maxStreak": 10,
-  "lastSyncDate": "2026-08-25",
-  "todayCount": 3,
+  "totalSolved": 40,
+  "currentStreak": 11,
+  "maxStreak": 11,
+  "lastSyncDate": "2026-08-26",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 12,
+    "easy": 13,
     "medium": 7,
     "hard": 1,
     "basic": 19
@@ -49,7 +49,8 @@
     "Codeforces_266A_-_Stones_on_the_Table": true,
     "LeetCode_Largest_Integer_With_Given_Digit_Sum": true,
     "GeeksForGeeks_Count_Odd_and_Even": true,
-    "Codeforces_339A_-_Helpful_Maths": true
+    "Codeforces_339A_-_Helpful_Maths": true,
+    "LeetCode_Check_if_Array_Is_Sorted_and_Rotated": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -61,11 +62,10 @@
     "2026-08-22": 3,
     "2026-08-23": 3,
     "2026-08-24": 3,
-    "2026-08-25": 3
+    "2026-08-25": 3,
+    "2026-08-26": 1
   },
   "todayProblems": [
-    "Largest Integer With Given Digit Sum",
-    "Count Odd and Even",
-    "339A - Helpful Maths"
+    "Check if Array Is Sorted and Rotated"
   ]
 }

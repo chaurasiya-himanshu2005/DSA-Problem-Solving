@@ -39,3 +39,4 @@
 | 37 | [Largest Integer With Given Digit Sum](./LeetCode/Easy/Largest%20Integer%20With%20Given%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | Easy | 25 Aug 2026 | 11:44 am |
 | 38 | [Count Odd and Even](./GeeksForGeeks/Basic/Count%20Odd%20and%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-odd-even/1) | Basic | 25 Aug 2026 | 11:50 am |
 | 39 | [339A - Helpful Maths](./Codeforces/basic/339A%20-%20Helpful%20Maths) | [Codeforces](https://codeforces.com/problemset/problem/339/A) | basic | 25 Aug 2026 | 01:29 pm |
+| 40 | [Check if Array Is Sorted and Rotated](./LeetCode/Easy/Check%20if%20Array%20Is%20Sorted%20and%20Rotated) | [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | 26 Aug 2026 | 06:04 pm |
