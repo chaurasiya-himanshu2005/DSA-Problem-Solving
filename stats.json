@@ -1,14 +1,14 @@
 {
-  "totalSolved": 40,
+  "totalSolved": 41,
   "currentStreak": 11,
   "maxStreak": 11,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 13,
     "medium": 7,
     "hard": 1,
-    "basic": 19
+    "basic": 20
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -50,7 +50,8 @@
     "LeetCode_Largest_Integer_With_Given_Digit_Sum": true,
     "GeeksForGeeks_Count_Odd_and_Even": true,
     "Codeforces_339A_-_Helpful_Maths": true,
-    "LeetCode_Check_if_Array_Is_Sorted_and_Rotated": true
+    "LeetCode_Check_if_Array_Is_Sorted_and_Rotated": true,
+    "GeeksForGeeks_Array_Insert_at_Index": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -63,9 +64,10 @@
     "2026-08-23": 3,
     "2026-08-24": 3,
     "2026-08-25": 3,
-    "2026-08-26": 1
+    "2026-08-26": 2
   },
   "todayProblems": [
-    "Check if Array Is Sorted and Rotated"
+    "Check if Array Is Sorted and Rotated",
+    "Array Insert at Index"
   ]
 }
