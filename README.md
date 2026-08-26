@@ -41,3 +41,4 @@
 | 39 | [339A - Helpful Maths](./Codeforces/basic/339A%20-%20Helpful%20Maths) | [Codeforces](https://codeforces.com/problemset/problem/339/A) | basic | 25 Aug 2026 | 01:29 pm |
 | 40 | [Check if Array Is Sorted and Rotated](./LeetCode/Easy/Check%20if%20Array%20Is%20Sorted%20and%20Rotated) | [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | 26 Aug 2026 | 06:04 pm |
 | 41 | [Array Insert at Index](./GeeksForGeeks/Basic/Array%20Insert%20at%20Index) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-insert-at-index/1) | Basic | 26 Aug 2026 | 06:05 pm |
+| 42 | [236A - Boy or Girl](./Codeforces/basic/236A%20-%20Boy%20or%20Girl) | [Codeforces](https://codeforces.com/problemset/problem/236/A) | basic | 26 Aug 2026 | 06:20 pm |
