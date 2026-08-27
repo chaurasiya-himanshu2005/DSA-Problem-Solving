@@ -1,14 +1,14 @@
 {
-  "totalSolved": 43,
+  "totalSolved": 44,
   "currentStreak": 12,
   "maxStreak": 12,
   "lastSyncDate": "2026-08-27",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 13,
     "medium": 8,
     "hard": 1,
-    "basic": 21
+    "basic": 22
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -53,7 +53,8 @@
     "LeetCode_Check_if_Array_Is_Sorted_and_Rotated": true,
     "GeeksForGeeks_Array_Insert_at_Index": true,
     "Codeforces_236A_-_Boy_or_Girl": true,
-    "LeetCode_Product_of_Array_Except_Self": true
+    "LeetCode_Product_of_Array_Except_Self": true,
+    "GeeksForGeeks_Reverse_Subarray": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -67,9 +68,10 @@
     "2026-08-24": 3,
     "2026-08-25": 3,
     "2026-08-26": 3,
-    "2026-08-27": 1
+    "2026-08-27": 2
   },
   "todayProblems": [
-    "Product of Array Except Self"
+    "Product of Array Except Self",
+    "Reverse Subarray"
   ]
 }
