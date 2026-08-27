@@ -1,12 +1,12 @@
 {
-  "totalSolved": 42,
-  "currentStreak": 11,
-  "maxStreak": 11,
-  "lastSyncDate": "2026-08-26",
-  "todayCount": 3,
+  "totalSolved": 43,
+  "currentStreak": 12,
+  "maxStreak": 12,
+  "lastSyncDate": "2026-08-27",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 7,
+    "medium": 8,
     "hard": 1,
     "basic": 21
   },
@@ -52,7 +52,8 @@
     "Codeforces_339A_-_Helpful_Maths": true,
     "LeetCode_Check_if_Array_Is_Sorted_and_Rotated": true,
     "GeeksForGeeks_Array_Insert_at_Index": true,
-    "Codeforces_236A_-_Boy_or_Girl": true
+    "Codeforces_236A_-_Boy_or_Girl": true,
+    "LeetCode_Product_of_Array_Except_Self": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -65,11 +66,10 @@
     "2026-08-23": 3,
     "2026-08-24": 3,
     "2026-08-25": 3,
-    "2026-08-26": 3
+    "2026-08-26": 3,
+    "2026-08-27": 1
   },
   "todayProblems": [
-    "Check if Array Is Sorted and Rotated",
-    "Array Insert at Index",
-    "236A - Boy or Girl"
+    "Product of Array Except Self"
   ]
 }
