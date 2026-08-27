@@ -1,14 +1,14 @@
 {
-  "totalSolved": 44,
+  "totalSolved": 45,
   "currentStreak": 12,
   "maxStreak": 12,
   "lastSyncDate": "2026-08-27",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 13,
     "medium": 8,
     "hard": 1,
-    "basic": 22
+    "basic": 23
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -54,7 +54,8 @@
     "GeeksForGeeks_Array_Insert_at_Index": true,
     "Codeforces_236A_-_Boy_or_Girl": true,
     "LeetCode_Product_of_Array_Except_Self": true,
-    "GeeksForGeeks_Reverse_Subarray": true
+    "GeeksForGeeks_Reverse_Subarray": true,
+    "Codeforces_281A_-_Word_Capitalization": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -68,10 +69,11 @@
     "2026-08-24": 3,
     "2026-08-25": 3,
     "2026-08-26": 3,
-    "2026-08-27": 2
+    "2026-08-27": 3
   },
   "todayProblems": [
     "Product of Array Except Self",
-    "Reverse Subarray"
+    "Reverse Subarray",
+    "281A - Word Capitalization"
   ]
 }

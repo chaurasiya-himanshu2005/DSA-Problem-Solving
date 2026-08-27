@@ -44,3 +44,4 @@
 | 42 | [236A - Boy or Girl](./Codeforces/basic/236A%20-%20Boy%20or%20Girl) | [Codeforces](https://codeforces.com/problemset/problem/236/A) | basic | 26 Aug 2026 | 06:20 pm |
 | 43 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 27 Aug 2026 | 07:03 am |
 | 44 | [Reverse Subarray](./GeeksForGeeks/Basic/Reverse%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-sub-array5620/1) | Basic | 27 Aug 2026 | 07:04 am |
+| 45 | [281A - Word Capitalization](./Codeforces/basic/281A%20-%20Word%20Capitalization) | [Codeforces](https://codeforces.com/problemset/problem/281/A) | basic | 27 Aug 2026 | 06:33 pm |
