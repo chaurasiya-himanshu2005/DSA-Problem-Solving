@@ -46,3 +46,4 @@
 | 44 | [Reverse Subarray](./GeeksForGeeks/Basic/Reverse%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-sub-array5620/1) | Basic | 27 Aug 2026 | 07:04 am |
 | 45 | [281A - Word Capitalization](./Codeforces/basic/281A%20-%20Word%20Capitalization) | [Codeforces](https://codeforces.com/problemset/problem/281/A) | basic | 27 Aug 2026 | 06:33 pm |
 | 46 | [String Compression](./LeetCode/Medium/String%20Compression) | [LeetCode](https://leetcode.com/problems/string-compression/) | Medium | 28 Aug 2026 | 12:21 pm |
+| 47 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 28 Aug 2026 | 04:10 pm |

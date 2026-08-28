@@ -1,14 +1,14 @@
 {
-  "totalSolved": 46,
+  "totalSolved": 47,
   "currentStreak": 13,
   "maxStreak": 13,
   "lastSyncDate": "2026-08-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 13,
     "medium": 9,
     "hard": 1,
-    "basic": 23
+    "basic": 24
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -56,7 +56,8 @@
     "LeetCode_Product_of_Array_Except_Self": true,
     "GeeksForGeeks_Reverse_Subarray": true,
     "Codeforces_281A_-_Word_Capitalization": true,
-    "LeetCode_String_Compression": true
+    "LeetCode_String_Compression": true,
+    "GeeksForGeeks_Rotate_Array_by_One": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -71,9 +72,10 @@
     "2026-08-25": 3,
     "2026-08-26": 3,
     "2026-08-27": 3,
-    "2026-08-28": 1
+    "2026-08-28": 2
   },
   "todayProblems": [
-    "String Compression"
+    "String Compression",
+    "Rotate Array by One"
   ]
 }
