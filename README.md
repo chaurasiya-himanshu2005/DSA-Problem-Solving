@@ -48,3 +48,4 @@
 | 46 | [String Compression](./LeetCode/Medium/String%20Compression) | [LeetCode](https://leetcode.com/problems/string-compression/) | Medium | 28 Aug 2026 | 12:21 pm |
 | 47 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 28 Aug 2026 | 04:10 pm |
 | 48 | [59A - Word](./Codeforces/basic/59A%20-%20Word) | [Codeforces](https://codeforces.com/problemset/problem/59/A) | basic | 28 Aug 2026 | 04:35 pm |
+| 49 | [Add Binary](./LeetCode/Easy/Add%20Binary) | [LeetCode](https://leetcode.com/problems/add-binary/) | Easy | 29 Aug 2026 | 04:57 pm |
