@@ -1,14 +1,14 @@
 {
-  "totalSolved": 50,
+  "totalSolved": 51,
   "currentStreak": 14,
   "maxStreak": 14,
   "lastSyncDate": "2026-08-29",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 14,
     "medium": 10,
     "hard": 1,
-    "basic": 25
+    "basic": 26
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -60,7 +60,8 @@
     "GeeksForGeeks_Rotate_Array_by_One": true,
     "Codeforces_59A_-_Word": true,
     "LeetCode_Add_Binary": true,
-    "GeeksForGeeks_Rotate_Array": true
+    "GeeksForGeeks_Rotate_Array": true,
+    "Codeforces_791A_-_Bear_and_Big_Brother": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -76,10 +77,11 @@
     "2026-08-26": 3,
     "2026-08-27": 3,
     "2026-08-28": 3,
-    "2026-08-29": 2
+    "2026-08-29": 3
   },
   "todayProblems": [
     "Add Binary",
-    "Rotate Array"
+    "Rotate Array",
+    "791A - Bear and Big Brother"
   ]
 }

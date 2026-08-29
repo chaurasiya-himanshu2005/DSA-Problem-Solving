@@ -50,3 +50,4 @@
 | 48 | [59A - Word](./Codeforces/basic/59A%20-%20Word) | [Codeforces](https://codeforces.com/problemset/problem/59/A) | basic | 28 Aug 2026 | 04:35 pm |
 | 49 | [Add Binary](./LeetCode/Easy/Add%20Binary) | [LeetCode](https://leetcode.com/problems/add-binary/) | Easy | 29 Aug 2026 | 04:57 pm |
 | 50 | [Rotate Array](./GeeksForGeeks/Medium/Rotate%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | Medium | 29 Aug 2026 | 05:07 pm |
+| 51 | [791A - Bear and Big Brother](./Codeforces/basic/791A%20-%20Bear%20and%20Big%20Brother) | [Codeforces](https://codeforces.com/problemset/problem/791/A) | basic | 29 Aug 2026 | 05:22 pm |
