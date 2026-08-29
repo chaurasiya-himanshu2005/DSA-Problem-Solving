@@ -49,3 +49,4 @@
 | 47 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 28 Aug 2026 | 04:10 pm |
 | 48 | [59A - Word](./Codeforces/basic/59A%20-%20Word) | [Codeforces](https://codeforces.com/problemset/problem/59/A) | basic | 28 Aug 2026 | 04:35 pm |
 | 49 | [Add Binary](./LeetCode/Easy/Add%20Binary) | [LeetCode](https://leetcode.com/problems/add-binary/) | Easy | 29 Aug 2026 | 04:57 pm |
+| 50 | [Rotate Array](./GeeksForGeeks/Medium/Rotate%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | Medium | 29 Aug 2026 | 05:07 pm |

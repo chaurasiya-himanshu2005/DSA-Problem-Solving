@@ -1,12 +1,12 @@
 {
-  "totalSolved": 49,
+  "totalSolved": 50,
   "currentStreak": 14,
   "maxStreak": 14,
   "lastSyncDate": "2026-08-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 9,
+    "medium": 10,
     "hard": 1,
     "basic": 25
   },
@@ -59,7 +59,8 @@
     "LeetCode_String_Compression": true,
     "GeeksForGeeks_Rotate_Array_by_One": true,
     "Codeforces_59A_-_Word": true,
-    "LeetCode_Add_Binary": true
+    "LeetCode_Add_Binary": true,
+    "GeeksForGeeks_Rotate_Array": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -75,9 +76,10 @@
     "2026-08-26": 3,
     "2026-08-27": 3,
     "2026-08-28": 3,
-    "2026-08-29": 1
+    "2026-08-29": 2
   },
   "todayProblems": [
-    "Add Binary"
+    "Add Binary",
+    "Rotate Array"
   ]
 }
