@@ -1,14 +1,14 @@
 {
-  "totalSolved": 53,
+  "totalSolved": 54,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-08-30",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 15,
     "medium": 10,
     "hard": 1,
-    "basic": 27
+    "basic": 28
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -63,7 +63,8 @@
     "GeeksForGeeks_Rotate_Array": true,
     "Codeforces_791A_-_Bear_and_Big_Brother": true,
     "LeetCode_Fibonacci_Number": true,
-    "GeeksForGeeks_Last_Duplicate_in_a_Sorted_Array": true
+    "GeeksForGeeks_Last_Duplicate_in_a_Sorted_Array": true,
+    "Codeforces_977A_-_Wrong_Subtraction": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -80,10 +81,11 @@
     "2026-08-27": 3,
     "2026-08-28": 3,
     "2026-08-29": 3,
-    "2026-08-30": 2
+    "2026-08-30": 3
   },
   "todayProblems": [
     "Fibonacci Number",
-    "Last Duplicate in a Sorted Array"
+    "Last Duplicate in a Sorted Array",
+    "977A - Wrong Subtraction"
   ]
 }

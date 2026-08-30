@@ -1,0 +1,20 @@
+import java.util.*;
+public class Main{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int num = sc.nextInt();
+        int minusDigit = sc.nextInt();
+        while(minusDigit > 0){
+            if(num % 10 == 0){
+                num = num / 10;
+            }else{
+                num--;
+            }
+            
+            minusDigit--;
+        }
+       
+        
+        System.out.println(num);
+    }
+}
