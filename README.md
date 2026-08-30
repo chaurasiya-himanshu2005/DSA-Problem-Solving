@@ -52,3 +52,4 @@
 | 50 | [Rotate Array](./GeeksForGeeks/Medium/Rotate%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | Medium | 29 Aug 2026 | 05:07 pm |
 | 51 | [791A - Bear and Big Brother](./Codeforces/basic/791A%20-%20Bear%20and%20Big%20Brother) | [Codeforces](https://codeforces.com/problemset/problem/791/A) | basic | 29 Aug 2026 | 05:22 pm |
 | 52 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 30 Aug 2026 | 03:07 pm |
+| 53 | [Last Duplicate in a Sorted Array](./GeeksForGeeks/Basic/Last%20Duplicate%20in%20a%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/last-duplicate-element-in-a-sorted-array5539/1) | Basic | 30 Aug 2026 | 03:09 pm |
