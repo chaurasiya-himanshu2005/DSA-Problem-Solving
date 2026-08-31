@@ -56,3 +56,4 @@
 | 54 | [977A - Wrong Subtraction](./Codeforces/basic/977A%20-%20Wrong%20Subtraction) | [Codeforces](https://codeforces.com/problemset/problem/977/A) | basic | 30 Aug 2026 | 11:19 pm |
 | 55 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 31 Aug 2026 | 08:03 am |
 | 56 | [Count Distinct in an Array](./GeeksForGeeks/Easy/Count%20Distinct%20in%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-distinct-elements--130928/1) | Easy | 31 Aug 2026 | 08:09 am |
+| 57 | [110A - Nearly Lucky Number](./Codeforces/basic/110A%20-%20Nearly%20Lucky%20Number) | [Codeforces](https://codeforces.com/problemset/problem/110/A) | basic | 31 Aug 2026 | 08:15 am |
