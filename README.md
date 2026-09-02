@@ -60,3 +60,4 @@
 | 58 | [Reverse first K of a Queue](./GeeksForGeeks/Easy/Reverse%20first%20K%20of%20a%20Queue) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | Easy | 01 Sept 2026 | 03:48 pm |
 | 59 | [Find the Winner of the Circular Game](./LeetCode/Medium/Find%20the%20Winner%20of%20the%20Circular%20Game) | [LeetCode](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | 01 Sept 2026 | 04:16 pm |
 | 60 | [Pascal's Triangle II](./LeetCode/Easy/Pascal's%20Triangle%20II) | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | 02 Sept 2026 | 10:35 am |
+| 61 | [271A - Beautiful Year](./Codeforces/basic/271A%20-%20Beautiful%20Year) | [Codeforces](https://codeforces.com/problemset/problem/271/A) | basic | 02 Sept 2026 | 06:36 pm |

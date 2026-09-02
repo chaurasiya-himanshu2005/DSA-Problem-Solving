@@ -1,14 +1,14 @@
 {
-  "totalSolved": 60,
+  "totalSolved": 61,
   "currentStreak": 18,
   "maxStreak": 18,
   "lastSyncDate": "2026-09-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 19,
     "medium": 11,
     "hard": 1,
-    "basic": 29
+    "basic": 30
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -70,7 +70,8 @@
     "Codeforces_110A_-_Nearly_Lucky_Number": true,
     "GeeksForGeeks_Reverse_first_K_of_a_Queue": true,
     "LeetCode_Find_the_Winner_of_the_Circular_Game": true,
-    "LeetCode_Pascal's_Triangle_II": true
+    "LeetCode_Pascal's_Triangle_II": true,
+    "Codeforces_271A_-_Beautiful_Year": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -90,9 +91,10 @@
     "2026-08-30": 3,
     "2026-08-31": 3,
     "2026-09-01": 2,
-    "2026-09-02": 1
+    "2026-09-02": 2
   },
   "todayProblems": [
-    "Pascal's Triangle II"
+    "Pascal's Triangle II",
+    "271A - Beautiful Year"
   ]
 }
