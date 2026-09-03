@@ -1,14 +1,14 @@
 {
-  "totalSolved": 65,
+  "totalSolved": 66,
   "currentStreak": 19,
   "maxStreak": 19,
   "lastSyncDate": "2026-09-03",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 20,
     "medium": 14,
     "hard": 1,
-    "basic": 30
+    "basic": 31
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -75,7 +75,8 @@
     "GeeksForGeeks_Count_Sorted_Subsequences_of_Size_3": true,
     "LeetCode_Stone_Game": true,
     "GeeksForGeeks_Transpose_of_Matrix": true,
-    "GeeksForGeeks_First_Negative_in_Windows_of_Size_K": true
+    "GeeksForGeeks_First_Negative_in_Windows_of_Size_K": true,
+    "Codeforces_467A_-_George_and_Accommodation": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -96,11 +97,12 @@
     "2026-08-31": 3,
     "2026-09-01": 2,
     "2026-09-02": 3,
-    "2026-09-03": 3
+    "2026-09-03": 4
   },
   "todayProblems": [
     "Stone Game",
     "Transpose of Matrix",
-    "First Negative in Windows of Size K"
+    "First Negative in Windows of Size K",
+    "467A - George and Accommodation"
   ]
 }
