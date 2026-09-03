@@ -63,3 +63,4 @@
 | 61 | [271A - Beautiful Year](./Codeforces/basic/271A%20-%20Beautiful%20Year) | [Codeforces](https://codeforces.com/problemset/problem/271/A) | basic | 02 Sept 2026 | 06:36 pm |
 | 62 | [Count Sorted Subsequences of Size 3](./GeeksForGeeks/Medium/Count%20Sorted%20Subsequences%20of%20Size%203) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/magic-triplets4003/1) | Medium | 02 Sept 2026 | 06:41 pm |
 | 63 | [Stone Game](./LeetCode/Medium/Stone%20Game) | [LeetCode](https://leetcode.com/problems/stone-game/) | Medium | 03 Sept 2026 | 08:22 am |
+| 64 | [Transpose of Matrix](./GeeksForGeeks/Easy/Transpose%20of%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1) | Easy | 03 Sept 2026 | 08:46 am |
