@@ -64,3 +64,4 @@
 | 62 | [Count Sorted Subsequences of Size 3](./GeeksForGeeks/Medium/Count%20Sorted%20Subsequences%20of%20Size%203) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/magic-triplets4003/1) | Medium | 02 Sept 2026 | 06:41 pm |
 | 63 | [Stone Game](./LeetCode/Medium/Stone%20Game) | [LeetCode](https://leetcode.com/problems/stone-game/) | Medium | 03 Sept 2026 | 08:22 am |
 | 64 | [Transpose of Matrix](./GeeksForGeeks/Easy/Transpose%20of%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1) | Easy | 03 Sept 2026 | 08:46 am |
+| 65 | [First Negative in Windows of Size K](./GeeksForGeeks/Medium/First%20Negative%20in%20Windows%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | Medium | 03 Sept 2026 | 03:21 pm |

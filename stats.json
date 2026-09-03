@@ -1,12 +1,12 @@
 {
-  "totalSolved": 64,
+  "totalSolved": 65,
   "currentStreak": 19,
   "maxStreak": 19,
   "lastSyncDate": "2026-09-03",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 13,
+    "medium": 14,
     "hard": 1,
     "basic": 30
   },
@@ -74,7 +74,8 @@
     "Codeforces_271A_-_Beautiful_Year": true,
     "GeeksForGeeks_Count_Sorted_Subsequences_of_Size_3": true,
     "LeetCode_Stone_Game": true,
-    "GeeksForGeeks_Transpose_of_Matrix": true
+    "GeeksForGeeks_Transpose_of_Matrix": true,
+    "GeeksForGeeks_First_Negative_in_Windows_of_Size_K": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -95,10 +96,11 @@
     "2026-08-31": 3,
     "2026-09-01": 2,
     "2026-09-02": 3,
-    "2026-09-03": 2
+    "2026-09-03": 3
   },
   "todayProblems": [
     "Stone Game",
-    "Transpose of Matrix"
+    "Transpose of Matrix",
+    "First Negative in Windows of Size K"
   ]
 }
