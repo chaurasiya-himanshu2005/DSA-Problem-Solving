@@ -66,3 +66,4 @@
 | 64 | [Transpose of Matrix](./GeeksForGeeks/Easy/Transpose%20of%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1) | Easy | 03 Sept 2026 | 08:46 am |
 | 65 | [First Negative in Windows of Size K](./GeeksForGeeks/Medium/First%20Negative%20in%20Windows%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | Medium | 03 Sept 2026 | 03:21 pm |
 | 66 | [467A - George and Accommodation](./Codeforces/basic/467A%20-%20George%20and%20Accommodation) | [Codeforces](https://codeforces.com/problemset/problem/467/A) | basic | 03 Sept 2026 | 03:29 pm |
+| 67 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 04 Sept 2026 | 03:10 pm |
