@@ -1,11 +1,11 @@
 {
-  "totalSolved": 67,
+  "totalSolved": 68,
   "currentStreak": 20,
   "maxStreak": 20,
   "lastSyncDate": "2026-09-04",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 21,
+    "easy": 22,
     "medium": 14,
     "hard": 1,
     "basic": 31
@@ -77,7 +77,8 @@
     "GeeksForGeeks_Transpose_of_Matrix": true,
     "GeeksForGeeks_First_Negative_in_Windows_of_Size_K": true,
     "Codeforces_467A_-_George_and_Accommodation": true,
-    "LeetCode_Pascal's_Triangle": true
+    "LeetCode_Pascal's_Triangle": true,
+    "GeeksForGeeks_Run_Length_Encoding": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -99,9 +100,10 @@
     "2026-09-01": 2,
     "2026-09-02": 3,
     "2026-09-03": 4,
-    "2026-09-04": 1
+    "2026-09-04": 2
   },
   "todayProblems": [
-    "Pascal's Triangle"
+    "Pascal's Triangle",
+    "Run Length Encoding"
   ]
 }
