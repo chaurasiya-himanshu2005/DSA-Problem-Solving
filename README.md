@@ -68,3 +68,4 @@
 | 66 | [467A - George and Accommodation](./Codeforces/basic/467A%20-%20George%20and%20Accommodation) | [Codeforces](https://codeforces.com/problemset/problem/467/A) | basic | 03 Sept 2026 | 03:29 pm |
 | 67 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 04 Sept 2026 | 03:10 pm |
 | 68 | [Run Length Encoding](./GeeksForGeeks/Easy/Run%20Length%20Encoding) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/run-length-encoding/1) | Easy | 04 Sept 2026 | 03:13 pm |
+| 69 | [263A - Beautiful Matrix](./Codeforces/basic/263A%20-%20Beautiful%20Matrix) | [Codeforces](https://codeforces.com/problemset/problem/263/A) | basic | 04 Sept 2026 | 11:11 pm |
