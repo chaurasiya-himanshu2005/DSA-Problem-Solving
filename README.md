@@ -74,3 +74,4 @@
 | 72 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 09:58 am |
 | 73 | [116A - Tram](./Codeforces/basic/116A%20-%20Tram) | [Codeforces](https://codeforces.com/problemset/problem/116/A) | basic | 05 Sept 2026 | 12:24 pm |
 | 74 | [158A - Next Round](./Codeforces/basic/158A%20-%20Next%20Round) | [Codeforces](https://codeforces.com/problemset/problem/158/A) | basic | 05 Sept 2026 | 12:35 pm |
+| 75 | [Sum of upper and lower triangles](./GeeksForGeeks/Easy/Sum%20of%20upper%20and%20lower%20triangles) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1) | Easy | 05 Sept 2026 | 02:19 pm |
