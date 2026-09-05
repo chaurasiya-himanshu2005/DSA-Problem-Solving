@@ -72,3 +72,4 @@
 | 70 | [344A - Magnets](./Codeforces/basic/344A%20-%20Magnets) | [Codeforces](https://codeforces.com/problemset/problem/344/A) | basic | 04 Sept 2026 | 11:22 pm |
 | 71 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 05 Sept 2026 | 09:41 am |
 | 72 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 09:58 am |
+| 73 | [116A - Tram](./Codeforces/basic/116A%20-%20Tram) | [Codeforces](https://codeforces.com/problemset/problem/116/A) | basic | 05 Sept 2026 | 12:24 pm |
