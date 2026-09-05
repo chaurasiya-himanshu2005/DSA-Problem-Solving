@@ -1,14 +1,14 @@
 {
-  "totalSolved": 73,
+  "totalSolved": 74,
   "currentStreak": 21,
   "maxStreak": 21,
   "lastSyncDate": "2026-09-05",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 23,
     "medium": 15,
     "hard": 1,
-    "basic": 34
+    "basic": 35
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -83,7 +83,8 @@
     "Codeforces_344A_-_Magnets": true,
     "LeetCode_Smallest_Stable_Index_I": true,
     "LeetCode_Smallest_Stable_Index_II": true,
-    "Codeforces_116A_-_Tram": true
+    "Codeforces_116A_-_Tram": true,
+    "Codeforces_158A_-_Next_Round": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -106,11 +107,12 @@
     "2026-09-02": 3,
     "2026-09-03": 4,
     "2026-09-04": 4,
-    "2026-09-05": 3
+    "2026-09-05": 4
   },
   "todayProblems": [
     "Smallest Stable Index I",
     "Smallest Stable Index II",
-    "116A - Tram"
+    "116A - Tram",
+    "158A - Next Round"
   ]
 }
