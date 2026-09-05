@@ -70,3 +70,4 @@
 | 68 | [Run Length Encoding](./GeeksForGeeks/Easy/Run%20Length%20Encoding) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/run-length-encoding/1) | Easy | 04 Sept 2026 | 03:13 pm |
 | 69 | [263A - Beautiful Matrix](./Codeforces/basic/263A%20-%20Beautiful%20Matrix) | [Codeforces](https://codeforces.com/problemset/problem/263/A) | basic | 04 Sept 2026 | 11:11 pm |
 | 70 | [344A - Magnets](./Codeforces/basic/344A%20-%20Magnets) | [Codeforces](https://codeforces.com/problemset/problem/344/A) | basic | 04 Sept 2026 | 11:22 pm |
+| 71 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 05 Sept 2026 | 09:41 am |
