@@ -76,3 +76,4 @@
 | 74 | [158A - Next Round](./Codeforces/basic/158A%20-%20Next%20Round) | [Codeforces](https://codeforces.com/problemset/problem/158/A) | basic | 05 Sept 2026 | 12:35 pm |
 | 75 | [Sum of upper and lower triangles](./GeeksForGeeks/Easy/Sum%20of%20upper%20and%20lower%20triangles) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1) | Easy | 05 Sept 2026 | 02:19 pm |
 | 76 | [Check Identical Matrices](./GeeksForGeeks/Basic/Check%20Identical%20Matrices) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/identical-matrices1042/1) | Basic | 06 Sept 2026 | 09:38 am |
+| 77 | [Intersection of Two Arrays II](./LeetCode/Easy/Intersection%20of%20Two%20Arrays%20II) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | 06 Sept 2026 | 02:23 pm |
