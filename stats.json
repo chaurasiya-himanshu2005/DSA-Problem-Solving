@@ -1,14 +1,14 @@
 {
-  "totalSolved": 77,
+  "totalSolved": 78,
   "currentStreak": 22,
   "maxStreak": 22,
   "lastSyncDate": "2026-09-06",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 25,
     "medium": 15,
     "hard": 1,
-    "basic": 36
+    "basic": 37
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -87,7 +87,8 @@
     "Codeforces_158A_-_Next_Round": true,
     "GeeksForGeeks_Sum_of_upper_and_lower_triangles": true,
     "GeeksForGeeks_Check_Identical_Matrices": true,
-    "LeetCode_Intersection_of_Two_Arrays_II": true
+    "LeetCode_Intersection_of_Two_Arrays_II": true,
+    "Codeforces_136A_-_Presents": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -111,10 +112,11 @@
     "2026-09-03": 4,
     "2026-09-04": 4,
     "2026-09-05": 5,
-    "2026-09-06": 2
+    "2026-09-06": 3
   },
   "todayProblems": [
     "Check Identical Matrices",
-    "Intersection of Two Arrays II"
+    "Intersection of Two Arrays II",
+    "136A - Presents"
   ]
 }
