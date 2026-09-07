@@ -78,3 +78,4 @@
 | 76 | [Check Identical Matrices](./GeeksForGeeks/Basic/Check%20Identical%20Matrices) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/identical-matrices1042/1) | Basic | 06 Sept 2026 | 09:38 am |
 | 77 | [Intersection of Two Arrays II](./LeetCode/Easy/Intersection%20of%20Two%20Arrays%20II) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | 06 Sept 2026 | 02:23 pm |
 | 78 | [136A - Presents](./Codeforces/basic/136A%20-%20Presents) | [Codeforces](https://codeforces.com/problemset/problem/136/A) | basic | 06 Sept 2026 | 07:34 pm |
+| 79 | [Count Rotations With Exactly K Equal Adjacent Pairs](./LeetCode/Easy/Count%20Rotations%20With%20Exactly%20K%20Equal%20Adjacent%20Pairs) | [LeetCode](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy | 07 Sept 2026 | 10:03 am |
