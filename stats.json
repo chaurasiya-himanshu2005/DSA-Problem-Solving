@@ -1,14 +1,14 @@
 {
-  "totalSolved": 84,
+  "totalSolved": 85,
   "currentStreak": 23,
   "maxStreak": 23,
   "lastSyncDate": "2026-09-07",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 27,
     "medium": 15,
     "hard": 1,
-    "basic": 41
+    "basic": 42
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -94,7 +94,8 @@
     "GeeksForGeeks_1_to_n_Without_Loops": true,
     "GeeksForGeeks_Size_of_Binary_Tree": true,
     "GeeksForGeeks_Sum_of_Binary_Tree": true,
-    "GeeksForGeeks_Max_and_Min_in_Binary_Tree": true
+    "GeeksForGeeks_Max_and_Min_in_Binary_Tree": true,
+    "Codeforces_723A_-_The_New_Year_Meeting_Friends": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -119,7 +120,7 @@
     "2026-09-04": 4,
     "2026-09-05": 5,
     "2026-09-06": 3,
-    "2026-09-07": 6
+    "2026-09-07": 7
   },
   "todayProblems": [
     "Count Rotations With Exactly K Equal Adjacent Pairs",
@@ -127,6 +128,7 @@
     "1 to n Without Loops",
     "Size of Binary Tree",
     "Sum of Binary Tree",
-    "Max and Min in Binary Tree"
+    "Max and Min in Binary Tree",
+    "723A - The New Year Meeting Friends"
   ]
 }
