@@ -81,3 +81,4 @@
 | 79 | [Count Rotations With Exactly K Equal Adjacent Pairs](./LeetCode/Easy/Count%20Rotations%20With%20Exactly%20K%20Equal%20Adjacent%20Pairs) | [LeetCode](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy | 07 Sept 2026 | 10:03 am |
 | 80 | [Print n to 1 Without Loop](./GeeksForGeeks/Basic/Print%20n%20to%201%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | Basic | 07 Sept 2026 | 11:17 am |
 | 81 | [1 to n Without Loops](./GeeksForGeeks/Basic/1%20to%20n%20Without%20Loops) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | Basic | 07 Sept 2026 | 11:18 am |
+| 82 | [Size of Binary Tree](./GeeksForGeeks/Basic/Size%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1) | Basic | 07 Sept 2026 | 11:22 am |
