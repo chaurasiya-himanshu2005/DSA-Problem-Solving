@@ -1,14 +1,14 @@
 {
-  "totalSolved": 80,
+  "totalSolved": 81,
   "currentStreak": 23,
   "maxStreak": 23,
   "lastSyncDate": "2026-09-07",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 26,
     "medium": 15,
     "hard": 1,
-    "basic": 38
+    "basic": 39
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -90,7 +90,8 @@
     "LeetCode_Intersection_of_Two_Arrays_II": true,
     "Codeforces_136A_-_Presents": true,
     "LeetCode_Count_Rotations_With_Exactly_K_Equal_Adjacent_Pairs": true,
-    "GeeksForGeeks_Print_n_to_1_Without_Loop": true
+    "GeeksForGeeks_Print_n_to_1_Without_Loop": true,
+    "GeeksForGeeks_1_to_n_Without_Loops": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -115,10 +116,11 @@
     "2026-09-04": 4,
     "2026-09-05": 5,
     "2026-09-06": 3,
-    "2026-09-07": 2
+    "2026-09-07": 3
   },
   "todayProblems": [
     "Count Rotations With Exactly K Equal Adjacent Pairs",
-    "Print n to 1 Without Loop"
+    "Print n to 1 Without Loop",
+    "1 to n Without Loops"
   ]
 }
