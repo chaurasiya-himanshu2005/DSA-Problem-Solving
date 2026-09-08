@@ -1,14 +1,14 @@
 {
-  "totalSolved": 92,
+  "totalSolved": 93,
   "currentStreak": 24,
   "maxStreak": 24,
   "lastSyncDate": "2026-09-08",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 34,
     "medium": 15,
     "hard": 1,
-    "basic": 42
+    "basic": 43
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -102,7 +102,8 @@
     "LeetCode_Same_Tree": true,
     "LeetCode_Symmetric_Tree": true,
     "LeetCode_Path_Sum": true,
-    "LeetCode_Balanced_Binary_Tree": true
+    "LeetCode_Balanced_Binary_Tree": true,
+    "Codeforces_1742A_-_Sum": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -128,7 +129,7 @@
     "2026-09-05": 5,
     "2026-09-06": 3,
     "2026-09-07": 7,
-    "2026-09-08": 7
+    "2026-09-08": 8
   },
   "todayProblems": [
     "Valid Parentheses",
@@ -137,6 +138,7 @@
     "Same Tree",
     "Symmetric Tree",
     "Path Sum",
-    "Balanced Binary Tree"
+    "Balanced Binary Tree",
+    "1742A - Sum"
   ]
 }

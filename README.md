@@ -92,3 +92,4 @@
 | 90 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 08 Sept 2026 | 03:18 pm |
 | 91 | [Path Sum](./LeetCode/Easy/Path%20Sum) | [LeetCode](https://leetcode.com/problems/path-sum/) | Easy | 08 Sept 2026 | 04:01 pm |
 | 92 | [Balanced Binary Tree](./LeetCode/Easy/Balanced%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/) | Easy | 08 Sept 2026 | 04:24 pm |
+| 93 | [1742A - Sum](./Codeforces/basic/1742A%20-%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/1742/A) | basic | 08 Sept 2026 | 06:42 pm |
