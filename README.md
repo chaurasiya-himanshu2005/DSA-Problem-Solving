@@ -85,3 +85,4 @@
 | 83 | [Sum of Binary Tree](./GeeksForGeeks/Basic/Sum%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1) | Basic | 07 Sept 2026 | 11:24 am |
 | 84 | [Max and Min in Binary Tree](./GeeksForGeeks/Easy/Max%20and%20Min%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1) | Easy | 07 Sept 2026 | 11:41 am |
 | 85 | [723A - The New Year Meeting Friends](./Codeforces/basic/723A%20-%20The%20New%20Year%20Meeting%20Friends) | [Codeforces](https://codeforces.com/problemset/problem/723/A) | basic | 07 Sept 2026 | 08:17 pm |
+| 86 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 08 Sept 2026 | 09:25 am |
