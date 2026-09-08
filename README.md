@@ -90,3 +90,4 @@
 | 88 | [Invert Binary Tree](./LeetCode/Easy/Invert%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Easy | 08 Sept 2026 | 02:58 pm |
 | 89 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 08 Sept 2026 | 03:09 pm |
 | 90 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 08 Sept 2026 | 03:18 pm |
+| 91 | [Path Sum](./LeetCode/Easy/Path%20Sum) | [LeetCode](https://leetcode.com/problems/path-sum/) | Easy | 08 Sept 2026 | 04:01 pm |
