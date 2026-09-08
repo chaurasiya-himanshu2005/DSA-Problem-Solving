@@ -1,11 +1,11 @@
 {
-  "totalSolved": 87,
+  "totalSolved": 88,
   "currentStreak": 24,
   "maxStreak": 24,
   "lastSyncDate": "2026-09-08",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 29,
+    "easy": 30,
     "medium": 15,
     "hard": 1,
     "basic": 42
@@ -97,7 +97,8 @@
     "GeeksForGeeks_Max_and_Min_in_Binary_Tree": true,
     "Codeforces_723A_-_The_New_Year_Meeting_Friends": true,
     "LeetCode_Valid_Parentheses": true,
-    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true
+    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
+    "LeetCode_Invert_Binary_Tree": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -123,10 +124,11 @@
     "2026-09-05": 5,
     "2026-09-06": 3,
     "2026-09-07": 7,
-    "2026-09-08": 2
+    "2026-09-08": 3
   },
   "todayProblems": [
     "Valid Parentheses",
-    "Max Sum Subarray of size K"
+    "Max Sum Subarray of size K",
+    "Invert Binary Tree"
   ]
 }

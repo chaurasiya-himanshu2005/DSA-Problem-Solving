@@ -87,3 +87,4 @@
 | 85 | [723A - The New Year Meeting Friends](./Codeforces/basic/723A%20-%20The%20New%20Year%20Meeting%20Friends) | [Codeforces](https://codeforces.com/problemset/problem/723/A) | basic | 07 Sept 2026 | 08:17 pm |
 | 86 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 08 Sept 2026 | 09:25 am |
 | 87 | [Max Sum Subarray of size K](./GeeksForGeeks/Easy/Max%20Sum%20Subarray%20of%20size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Easy | 08 Sept 2026 | 12:25 pm |
+| 88 | [Invert Binary Tree](./LeetCode/Easy/Invert%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Easy | 08 Sept 2026 | 02:58 pm |
