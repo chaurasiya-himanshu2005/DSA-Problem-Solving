@@ -94,3 +94,4 @@
 | 92 | [Balanced Binary Tree](./LeetCode/Easy/Balanced%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/) | Easy | 08 Sept 2026 | 04:24 pm |
 | 93 | [1742A - Sum](./Codeforces/basic/1742A%20-%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/1742/A) | basic | 08 Sept 2026 | 06:42 pm |
 | 94 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 09 Sept 2026 | 08:55 am |
+| 95 | [Count Commas in Range II](./LeetCode/Medium/Count%20Commas%20in%20Range%20II) | [LeetCode](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | 09 Sept 2026 | 10:14 am |
