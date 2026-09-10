@@ -1,11 +1,11 @@
 {
-  "totalSolved": 103,
+  "totalSolved": 104,
   "currentStreak": 26,
   "maxStreak": 26,
   "lastSyncDate": "2026-09-10",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
-    "easy": 39,
+    "easy": 40,
     "medium": 17,
     "hard": 1,
     "basic": 46
@@ -113,7 +113,8 @@
     "LeetCode_Binary_Tree_Postorder_Traversal": true,
     "GeeksForGeeks_Preorder_Traversal": true,
     "GeeksForGeeks_Inorder_Traversal": true,
-    "GeeksForGeeks_Postorder_Traversal": true
+    "GeeksForGeeks_Postorder_Traversal": true,
+    "GeeksForGeeks_Level_Order_Traversal": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -141,7 +142,7 @@
     "2026-09-07": 7,
     "2026-09-08": 8,
     "2026-09-09": 4,
-    "2026-09-10": 6
+    "2026-09-10": 7
   },
   "todayProblems": [
     "Binary Tree Preorder Traversal",
@@ -149,6 +150,7 @@
     "Binary Tree Postorder Traversal",
     "Preorder Traversal",
     "Inorder Traversal",
-    "Postorder Traversal"
+    "Postorder Traversal",
+    "Level Order Traversal"
   ]
 }

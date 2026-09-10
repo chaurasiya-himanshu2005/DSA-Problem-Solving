@@ -103,3 +103,4 @@
 | 101 | [Preorder Traversal](./GeeksForGeeks/Basic/Preorder%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/preorder-traversal/1) | Basic | 10 Sept 2026 | 12:35 pm |
 | 102 | [Inorder Traversal](./GeeksForGeeks/Basic/Inorder%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inorder-traversal/1) | Basic | 10 Sept 2026 | 12:38 pm |
 | 103 | [Postorder Traversal](./GeeksForGeeks/Basic/Postorder%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/postorder-traversal/1) | Basic | 10 Sept 2026 | 12:45 pm |
+| 104 | [Level Order Traversal](./GeeksForGeeks/Easy/Level%20Order%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/level-order-traversal/1) | Easy | 10 Sept 2026 | 02:34 pm |
