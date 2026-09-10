@@ -104,3 +104,4 @@
 | 102 | [Inorder Traversal](./GeeksForGeeks/Basic/Inorder%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inorder-traversal/1) | Basic | 10 Sept 2026 | 12:38 pm |
 | 103 | [Postorder Traversal](./GeeksForGeeks/Basic/Postorder%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/postorder-traversal/1) | Basic | 10 Sept 2026 | 12:45 pm |
 | 104 | [Level Order Traversal](./GeeksForGeeks/Easy/Level%20Order%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/level-order-traversal/1) | Easy | 10 Sept 2026 | 02:34 pm |
+| 105 | [Binary Tree Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 10 Sept 2026 | 03:01 pm |
