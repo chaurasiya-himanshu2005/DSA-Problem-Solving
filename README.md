@@ -99,3 +99,4 @@
 | 97 | [Next Greater Element I](./LeetCode/Easy/Next%20Greater%20Element%20I) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) | Easy | 09 Sept 2026 | 10:33 pm |
 | 98 | [Binary Tree Preorder Traversal](./LeetCode/Easy/Binary%20Tree%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | 10 Sept 2026 | 08:55 am |
 | 99 | [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | 10 Sept 2026 | 09:10 am |
+| 100 | [Binary Tree Postorder Traversal](./LeetCode/Easy/Binary%20Tree%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | 10 Sept 2026 | 09:13 am |
