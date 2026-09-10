@@ -100,3 +100,4 @@
 | 98 | [Binary Tree Preorder Traversal](./LeetCode/Easy/Binary%20Tree%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | 10 Sept 2026 | 08:55 am |
 | 99 | [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | 10 Sept 2026 | 09:10 am |
 | 100 | [Binary Tree Postorder Traversal](./LeetCode/Easy/Binary%20Tree%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | 10 Sept 2026 | 09:13 am |
+| 101 | [Preorder Traversal](./GeeksForGeeks/Basic/Preorder%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/preorder-traversal/1) | Basic | 10 Sept 2026 | 12:35 pm |
