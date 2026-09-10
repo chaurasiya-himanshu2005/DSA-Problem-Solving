@@ -1,12 +1,12 @@
 {
-  "totalSolved": 109,
+  "totalSolved": 110,
   "currentStreak": 26,
   "maxStreak": 26,
   "lastSyncDate": "2026-09-10",
-  "todayCount": 12,
+  "todayCount": 13,
   "difficultyCounts": {
     "easy": 43,
-    "medium": 19,
+    "medium": 20,
     "hard": 1,
     "basic": 46
   },
@@ -119,7 +119,8 @@
     "LeetCode_Binary_Tree_Right_Side_View": true,
     "GeeksForGeeks_Left_View_of_Binary_Tree": true,
     "LeetCode_Search_in_a_Binary_Search_Tree": true,
-    "LeetCode_Range_Sum_of_BST": true
+    "LeetCode_Range_Sum_of_BST": true,
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -147,7 +148,7 @@
     "2026-09-07": 7,
     "2026-09-08": 8,
     "2026-09-09": 4,
-    "2026-09-10": 12
+    "2026-09-10": 13
   },
   "todayProblems": [
     "Binary Tree Preorder Traversal",
@@ -161,6 +162,7 @@
     "Binary Tree Right Side View",
     "Left View of Binary Tree",
     "Search in a Binary Search Tree",
-    "Range Sum of BST"
+    "Range Sum of BST",
+    "Lowest Common Ancestor of a Binary Search Tree"
   ]
 }
