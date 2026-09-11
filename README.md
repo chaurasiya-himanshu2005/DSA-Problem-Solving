@@ -110,3 +110,4 @@
 | 108 | [Search in a Binary Search Tree](./LeetCode/Easy/Search%20in%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 10 Sept 2026 | 04:07 pm |
 | 109 | [Range Sum of BST](./LeetCode/Easy/Range%20Sum%20of%20BST) | [LeetCode](https://leetcode.com/problems/range-sum-of-bst/) | Easy | 10 Sept 2026 | 04:20 pm |
 | 110 | [Lowest Common Ancestor of a Binary Search Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 10 Sept 2026 | 04:37 pm |
+| 111 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 02:26 pm |
