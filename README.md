@@ -112,3 +112,4 @@
 | 110 | [Lowest Common Ancestor of a Binary Search Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 10 Sept 2026 | 04:37 pm |
 | 111 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 02:26 pm |
 | 112 | [Finding 3-Digit Even Numbers](./LeetCode/Easy/Finding%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 04:17 pm |
+| 113 | [Digital Root](./GeeksForGeeks/Easy/Digital%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/digital-root/1) | Easy | 11 Sept 2026 | 04:31 pm |

@@ -1,11 +1,11 @@
 {
-  "totalSolved": 112,
+  "totalSolved": 113,
   "currentStreak": 27,
   "maxStreak": 27,
   "lastSyncDate": "2026-09-11",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 45,
+    "easy": 46,
     "medium": 20,
     "hard": 1,
     "basic": 46
@@ -122,7 +122,8 @@
     "LeetCode_Range_Sum_of_BST": true,
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true,
     "LeetCode_Unique_3-Digit_Even_Numbers": true,
-    "LeetCode_Finding_3-Digit_Even_Numbers": true
+    "LeetCode_Finding_3-Digit_Even_Numbers": true,
+    "GeeksForGeeks_Digital_Root": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -151,10 +152,11 @@
     "2026-09-08": 8,
     "2026-09-09": 4,
     "2026-09-10": 13,
-    "2026-09-11": 2
+    "2026-09-11": 3
   },
   "todayProblems": [
     "Unique 3-Digit Even Numbers",
-    "Finding 3-Digit Even Numbers"
+    "Finding 3-Digit Even Numbers",
+    "Digital Root"
   ]
 }
