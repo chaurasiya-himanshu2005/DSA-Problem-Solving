@@ -1,13 +1,13 @@
 {
-  "totalSolved": 114,
+  "totalSolved": 115,
   "currentStreak": 27,
   "maxStreak": 27,
   "lastSyncDate": "2026-09-11",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 46,
     "medium": 20,
-    "hard": 2,
+    "hard": 3,
     "basic": 46
   },
   "syncedProblems": {
@@ -124,7 +124,8 @@
     "LeetCode_Unique_3-Digit_Even_Numbers": true,
     "LeetCode_Finding_3-Digit_Even_Numbers": true,
     "GeeksForGeeks_Digital_Root": true,
-    "LeetCode_Largest_Rectangle_in_Histogram": true
+    "LeetCode_Largest_Rectangle_in_Histogram": true,
+    "LeetCode_Maximal_Rectangle": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -153,12 +154,13 @@
     "2026-09-08": 8,
     "2026-09-09": 4,
     "2026-09-10": 13,
-    "2026-09-11": 4
+    "2026-09-11": 5
   },
   "todayProblems": [
     "Unique 3-Digit Even Numbers",
     "Finding 3-Digit Even Numbers",
     "Digital Root",
-    "Largest Rectangle in Histogram"
+    "Largest Rectangle in Histogram",
+    "Maximal Rectangle"
   ]
 }

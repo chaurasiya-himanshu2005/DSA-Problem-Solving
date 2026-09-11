@@ -114,3 +114,4 @@
 | 112 | [Finding 3-Digit Even Numbers](./LeetCode/Easy/Finding%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 04:17 pm |
 | 113 | [Digital Root](./GeeksForGeeks/Easy/Digital%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/digital-root/1) | Easy | 11 Sept 2026 | 04:31 pm |
 | 114 | [Largest Rectangle in Histogram](./LeetCode/Hard/Largest%20Rectangle%20in%20Histogram) | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | 11 Sept 2026 | 07:12 pm |
+| 115 | [Maximal Rectangle](./LeetCode/Hard/Maximal%20Rectangle) | [LeetCode](https://leetcode.com/problems/maximal-rectangle/) | Hard | 11 Sept 2026 | 07:43 pm |
