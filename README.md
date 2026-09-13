@@ -120,3 +120,4 @@
 | 118 | [Min Stack](./LeetCode/Medium/Min%20Stack) | [LeetCode](https://leetcode.com/problems/min-stack/) | Medium | 13 Sept 2026 | 07:51 am |
 | 119 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 13 Sept 2026 | 06:56 pm |
 | 120 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 13 Sept 2026 | 07:07 pm |
+| 121 | [Water and Jug Problem](./LeetCode/Medium/Water%20and%20Jug%20Problem) | [LeetCode](https://leetcode.com/problems/water-and-jug-problem/) | Medium | 13 Sept 2026 | 07:15 pm |
