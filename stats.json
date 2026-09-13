@@ -1,11 +1,11 @@
 {
-  "totalSolved": 118,
+  "totalSolved": 119,
   "currentStreak": 29,
   "maxStreak": 29,
   "lastSyncDate": "2026-09-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 47,
+    "easy": 48,
     "medium": 22,
     "hard": 3,
     "basic": 46
@@ -128,7 +128,8 @@
     "LeetCode_Maximal_Rectangle": true,
     "GeeksForGeeks_Celebrity_Problem": true,
     "GeeksForGeeks_Strong_Numbers": true,
-    "LeetCode_Min_Stack": true
+    "LeetCode_Min_Stack": true,
+    "LeetCode_Construct_Uniform_Parity_Array_I": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -159,9 +160,10 @@
     "2026-09-10": 13,
     "2026-09-11": 5,
     "2026-09-12": 2,
-    "2026-09-13": 1
+    "2026-09-13": 2
   },
   "todayProblems": [
-    "Min Stack"
+    "Min Stack",
+    "Construct Uniform Parity Array I"
   ]
 }
