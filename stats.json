@@ -1,11 +1,11 @@
 {
-  "totalSolved": 124,
+  "totalSolved": 125,
   "currentStreak": 30,
   "maxStreak": 30,
   "lastSyncDate": "2026-09-14",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 49,
+    "easy": 50,
     "medium": 25,
     "hard": 4,
     "basic": 46
@@ -134,7 +134,8 @@
     "LeetCode_Water_and_Jug_Problem": true,
     "GeeksForGeeks_Factorial": true,
     "LeetCode_Trapping_Rain_Water": true,
-    "GeeksForGeeks_Check_Sorted_Array": true
+    "GeeksForGeeks_Check_Sorted_Array": true,
+    "LeetCode_Rectangle_Overlap": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -166,10 +167,11 @@
     "2026-09-11": 5,
     "2026-09-12": 2,
     "2026-09-13": 5,
-    "2026-09-14": 2
+    "2026-09-14": 3
   },
   "todayProblems": [
     "Trapping Rain Water",
-    "Check Sorted Array"
+    "Check Sorted Array",
+    "Rectangle Overlap"
   ]
 }
