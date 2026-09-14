@@ -122,3 +122,4 @@
 | 120 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 13 Sept 2026 | 07:07 pm |
 | 121 | [Water and Jug Problem](./LeetCode/Medium/Water%20and%20Jug%20Problem) | [LeetCode](https://leetcode.com/problems/water-and-jug-problem/) | Medium | 13 Sept 2026 | 07:15 pm |
 | 122 | [Factorial](./GeeksForGeeks/Medium/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Medium | 13 Sept 2026 | 07:28 pm |
+| 123 | [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | Hard | 14 Sept 2026 | 03:09 pm |
