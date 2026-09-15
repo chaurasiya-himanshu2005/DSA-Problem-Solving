@@ -127,3 +127,4 @@
 | 125 | [Rectangle Overlap](./LeetCode/Easy/Rectangle%20Overlap) | [LeetCode](https://leetcode.com/problems/rectangle-overlap/) | Easy | 14 Sept 2026 | 07:38 pm |
 | 126 | [Sliding Window Maximum](./LeetCode/Hard/Sliding%20Window%20Maximum) | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) | Hard | 15 Sept 2026 | 10:52 am |
 | 127 | [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 15 Sept 2026 | 04:39 pm |
+| 128 | [Binary Tree Zigzag Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | 15 Sept 2026 | 07:28 pm |
