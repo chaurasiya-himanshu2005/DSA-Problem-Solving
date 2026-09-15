@@ -1,13 +1,13 @@
 {
-  "totalSolved": 125,
-  "currentStreak": 30,
-  "maxStreak": 30,
-  "lastSyncDate": "2026-09-14",
-  "todayCount": 3,
+  "totalSolved": 126,
+  "currentStreak": 31,
+  "maxStreak": 31,
+  "lastSyncDate": "2026-09-15",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 50,
     "medium": 25,
-    "hard": 4,
+    "hard": 5,
     "basic": 46
   },
   "syncedProblems": {
@@ -135,7 +135,8 @@
     "GeeksForGeeks_Factorial": true,
     "LeetCode_Trapping_Rain_Water": true,
     "GeeksForGeeks_Check_Sorted_Array": true,
-    "LeetCode_Rectangle_Overlap": true
+    "LeetCode_Rectangle_Overlap": true,
+    "LeetCode_Sliding_Window_Maximum": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -167,11 +168,10 @@
     "2026-09-11": 5,
     "2026-09-12": 2,
     "2026-09-13": 5,
-    "2026-09-14": 3
+    "2026-09-14": 3,
+    "2026-09-15": 1
   },
   "todayProblems": [
-    "Trapping Rain Water",
-    "Check Sorted Array",
-    "Rectangle Overlap"
+    "Sliding Window Maximum"
   ]
 }
