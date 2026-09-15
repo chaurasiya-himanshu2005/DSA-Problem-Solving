@@ -1,11 +1,11 @@
 {
-  "totalSolved": 126,
+  "totalSolved": 127,
   "currentStreak": 31,
   "maxStreak": 31,
   "lastSyncDate": "2026-09-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 50,
+    "easy": 51,
     "medium": 25,
     "hard": 5,
     "basic": 46
@@ -136,7 +136,8 @@
     "LeetCode_Trapping_Rain_Water": true,
     "GeeksForGeeks_Check_Sorted_Array": true,
     "LeetCode_Rectangle_Overlap": true,
-    "LeetCode_Sliding_Window_Maximum": true
+    "LeetCode_Sliding_Window_Maximum": true,
+    "GeeksForGeeks_Reverse_Array": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -169,9 +170,10 @@
     "2026-09-12": 2,
     "2026-09-13": 5,
     "2026-09-14": 3,
-    "2026-09-15": 1
+    "2026-09-15": 2
   },
   "todayProblems": [
-    "Sliding Window Maximum"
+    "Sliding Window Maximum",
+    "Reverse Array"
   ]
 }
