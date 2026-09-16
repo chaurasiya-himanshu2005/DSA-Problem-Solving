@@ -1,14 +1,14 @@
 {
-  "totalSolved": 130,
+  "totalSolved": 131,
   "currentStreak": 32,
   "maxStreak": 32,
   "lastSyncDate": "2026-09-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 52,
     "medium": 27,
     "hard": 5,
-    "basic": 46
+    "basic": 47
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -140,7 +140,8 @@
     "GeeksForGeeks_Reverse_Array": true,
     "LeetCode_Binary_Tree_Zigzag_Level_Order_Traversal": true,
     "GeeksForGeeks_Minimum_in_BST": true,
-    "LeetCode_Rearrange_Array_Elements_by_Sign": true
+    "LeetCode_Rearrange_Array_Elements_by_Sign": true,
+    "GeeksForGeeks_Sums_of_i-th_row_and_i-th_column": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -174,9 +175,10 @@
     "2026-09-13": 5,
     "2026-09-14": 3,
     "2026-09-15": 4,
-    "2026-09-16": 1
+    "2026-09-16": 2
   },
   "todayProblems": [
-    "Rearrange Array Elements by Sign"
+    "Rearrange Array Elements by Sign",
+    "Sums of i-th row and i-th column"
   ]
 }
