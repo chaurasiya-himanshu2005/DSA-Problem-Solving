@@ -131,3 +131,4 @@
 | 129 | [Minimum in BST](./GeeksForGeeks/Easy/Minimum%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | Easy | 15 Sept 2026 | 08:24 pm |
 | 130 | [Rearrange Array Elements by Sign](./LeetCode/Medium/Rearrange%20Array%20Elements%20by%20Sign) | [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | 16 Sept 2026 | 02:45 pm |
 | 131 | [Sums of i-th row and i-th column](./GeeksForGeeks/Basic/Sums%20of%20i-th%20row%20and%20i-th%20column) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sums-of-i-th-row-and-i-th-column3054/1) | Basic | 16 Sept 2026 | 07:37 pm |
+| 132 | [Squares in Matrix](./GeeksForGeeks/Basic/Squares%20in%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/squares-in-a-matrix5716/1) | Basic | 17 Sept 2026 | 02:12 pm |
