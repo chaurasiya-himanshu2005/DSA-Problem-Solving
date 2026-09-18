@@ -136,3 +136,4 @@
 | 134 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 18 Sept 2026 | 01:05 am |
 | 135 | [Parenthesis Checker](./GeeksForGeeks/Easy/Parenthesis%20Checker) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | 18 Sept 2026 | 01:24 am |
 | 136 | [Infix to Postfix](./GeeksForGeeks/Medium/Infix%20to%20Postfix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) | Medium | 18 Sept 2026 | 08:55 am |
+| 137 | [Postfix Evaluation](./GeeksForGeeks/Medium/Postfix%20Evaluation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1) | Medium | 18 Sept 2026 | 09:10 am |
