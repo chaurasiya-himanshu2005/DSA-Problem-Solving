@@ -135,3 +135,4 @@
 | 133 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 17 Sept 2026 | 11:48 pm |
 | 134 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 18 Sept 2026 | 01:05 am |
 | 135 | [Parenthesis Checker](./GeeksForGeeks/Easy/Parenthesis%20Checker) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | 18 Sept 2026 | 01:24 am |
+| 136 | [Infix to Postfix](./GeeksForGeeks/Medium/Infix%20to%20Postfix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) | Medium | 18 Sept 2026 | 08:55 am |

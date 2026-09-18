@@ -1,12 +1,12 @@
 {
-  "totalSolved": 135,
+  "totalSolved": 136,
   "currentStreak": 34,
   "maxStreak": 34,
   "lastSyncDate": "2026-09-18",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 55,
-    "medium": 27,
+    "medium": 28,
     "hard": 5,
     "basic": 48
   },
@@ -145,7 +145,8 @@
     "GeeksForGeeks_Squares_in_Matrix": true,
     "LeetCode_Maximum_Depth_of_Binary_Tree": true,
     "LeetCode_Remove_All_Adjacent_Duplicates_In_String": true,
-    "GeeksForGeeks_Parenthesis_Checker": true
+    "GeeksForGeeks_Parenthesis_Checker": true,
+    "GeeksForGeeks_Infix_to_Postfix": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -181,10 +182,11 @@
     "2026-09-15": 4,
     "2026-09-16": 2,
     "2026-09-17": 2,
-    "2026-09-18": 2
+    "2026-09-18": 3
   },
   "todayProblems": [
     "Remove All Adjacent Duplicates In String",
-    "Parenthesis Checker"
+    "Parenthesis Checker",
+    "Infix to Postfix"
   ]
 }
