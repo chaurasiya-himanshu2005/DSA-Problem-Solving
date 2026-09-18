@@ -137,3 +137,4 @@
 | 135 | [Parenthesis Checker](./GeeksForGeeks/Easy/Parenthesis%20Checker) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | 18 Sept 2026 | 01:24 am |
 | 136 | [Infix to Postfix](./GeeksForGeeks/Medium/Infix%20to%20Postfix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) | Medium | 18 Sept 2026 | 08:55 am |
 | 137 | [Postfix Evaluation](./GeeksForGeeks/Medium/Postfix%20Evaluation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1) | Medium | 18 Sept 2026 | 09:10 am |
+| 138 | [Evaluate Reverse Polish Notation](./LeetCode/Medium/Evaluate%20Reverse%20Polish%20Notation) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 18 Sept 2026 | 09:30 am |
