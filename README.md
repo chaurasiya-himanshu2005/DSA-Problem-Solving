@@ -140,3 +140,4 @@
 | 138 | [Evaluate Reverse Polish Notation](./LeetCode/Medium/Evaluate%20Reverse%20Polish%20Notation) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 18 Sept 2026 | 09:30 am |
 | 139 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 19 Sept 2026 | 06:15 pm |
 | 140 | [Diagonal Sum in Matrix](./GeeksForGeeks/Basic/Diagonal%20Sum%20in%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/diagonal-sum0158/1) | Basic | 19 Sept 2026 | 06:52 pm |
+| 141 | [Circle and Rectangle Overlapping](./LeetCode/Medium/Circle%20and%20Rectangle%20Overlapping) | [LeetCode](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium | 20 Sept 2026 | 01:18 am |

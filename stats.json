@@ -1,12 +1,12 @@
 {
-  "totalSolved": 140,
-  "currentStreak": 35,
-  "maxStreak": 35,
-  "lastSyncDate": "2026-09-19",
-  "todayCount": 2,
+  "totalSolved": 141,
+  "currentStreak": 36,
+  "maxStreak": 36,
+  "lastSyncDate": "2026-09-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 55,
-    "medium": 31,
+    "medium": 32,
     "hard": 5,
     "basic": 49
   },
@@ -150,7 +150,8 @@
     "GeeksForGeeks_Postfix_Evaluation": true,
     "LeetCode_Evaluate_Reverse_Polish_Notation": true,
     "LeetCode_Reverse_Words_in_a_String": true,
-    "GeeksForGeeks_Diagonal_Sum_in_Matrix": true
+    "GeeksForGeeks_Diagonal_Sum_in_Matrix": true,
+    "LeetCode_Circle_and_Rectangle_Overlapping": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -187,10 +188,10 @@
     "2026-09-16": 2,
     "2026-09-17": 2,
     "2026-09-18": 5,
-    "2026-09-19": 2
+    "2026-09-19": 2,
+    "2026-09-20": 1
   },
   "todayProblems": [
-    "Reverse Words in a String",
-    "Diagonal Sum in Matrix"
+    "Circle and Rectangle Overlapping"
   ]
 }
