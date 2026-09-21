@@ -146,3 +146,4 @@
 | 144 | [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | Easy | 21 Sept 2026 | 12:30 am |
 | 145 | [Array Leaders](./GeeksForGeeks/Easy/Array%20Leaders) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | Easy | 21 Sept 2026 | 12:32 am |
 | 146 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 21 Sept 2026 | 09:40 am |
+| 147 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 21 Sept 2026 | 06:52 pm |
