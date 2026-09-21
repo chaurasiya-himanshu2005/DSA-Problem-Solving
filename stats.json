@@ -1,14 +1,14 @@
 {
-  "totalSolved": 149,
+  "totalSolved": 150,
   "currentStreak": 37,
   "maxStreak": 37,
   "lastSyncDate": "2026-09-21",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 62,
     "medium": 33,
     "hard": 5,
-    "basic": 49
+    "basic": 50
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -159,7 +159,8 @@
     "LeetCode_Majority_Element": true,
     "LeetCode_Middle_of_the_Linked_List": true,
     "LeetCode_Linked_List_Cycle_II": true,
-    "LeetCode_Merge_Two_Sorted_Lists": true
+    "LeetCode_Merge_Two_Sorted_Lists": true,
+    "GeeksForGeeks_Add_of_2_Square_Matrices": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -198,7 +199,7 @@
     "2026-09-18": 5,
     "2026-09-19": 2,
     "2026-09-20": 3,
-    "2026-09-21": 6
+    "2026-09-21": 7
   },
   "todayProblems": [
     "Reverse Linked List",
@@ -206,6 +207,7 @@
     "Majority Element",
     "Middle of the Linked List",
     "Linked List Cycle II",
-    "Merge Two Sorted Lists"
+    "Merge Two Sorted Lists",
+    "Add of 2 Square Matrices"
   ]
 }

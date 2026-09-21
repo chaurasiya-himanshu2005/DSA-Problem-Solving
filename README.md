@@ -149,3 +149,4 @@
 | 147 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 21 Sept 2026 | 06:52 pm |
 | 148 | [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | 21 Sept 2026 | 07:33 pm |
 | 149 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 21 Sept 2026 | 08:01 pm |
+| 150 | [Add of 2 Square Matrices](./GeeksForGeeks/Basic/Add%20of%202%20Square%20Matrices) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/addition-of-two-square-matrices4916/1) | Basic | 21 Sept 2026 | 11:06 pm |
