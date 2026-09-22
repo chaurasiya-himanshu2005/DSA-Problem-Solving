@@ -152,3 +152,4 @@
 | 150 | [Add of 2 Square Matrices](./GeeksForGeeks/Basic/Add%20of%202%20Square%20Matrices) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/addition-of-two-square-matrices4916/1) | Basic | 21 Sept 2026 | 11:06 pm |
 | 151 | [Missing And Repeating](./GeeksForGeeks/Medium/Missing%20And%20Repeating) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | Medium | 22 Sept 2026 | 03:35 pm |
 | 152 | [Find Missing and Repeated Values](./LeetCode/Easy/Find%20Missing%20and%20Repeated%20Values) | [LeetCode](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | 22 Sept 2026 | 07:17 pm |
+| 153 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 22 Sept 2026 | 11:49 pm |
