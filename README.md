@@ -150,3 +150,4 @@
 | 148 | [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | 21 Sept 2026 | 07:33 pm |
 | 149 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 21 Sept 2026 | 08:01 pm |
 | 150 | [Add of 2 Square Matrices](./GeeksForGeeks/Basic/Add%20of%202%20Square%20Matrices) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/addition-of-two-square-matrices4916/1) | Basic | 21 Sept 2026 | 11:06 pm |
+| 151 | [Missing And Repeating](./GeeksForGeeks/Medium/Missing%20And%20Repeating) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | Medium | 22 Sept 2026 | 03:35 pm |
