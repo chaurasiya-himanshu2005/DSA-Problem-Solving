@@ -1,11 +1,11 @@
 {
-  "totalSolved": 151,
+  "totalSolved": 152,
   "currentStreak": 38,
   "maxStreak": 38,
   "lastSyncDate": "2026-09-22",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 62,
+    "easy": 63,
     "medium": 34,
     "hard": 5,
     "basic": 50
@@ -161,7 +161,8 @@
     "LeetCode_Linked_List_Cycle_II": true,
     "LeetCode_Merge_Two_Sorted_Lists": true,
     "GeeksForGeeks_Add_of_2_Square_Matrices": true,
-    "GeeksForGeeks_Missing_And_Repeating": true
+    "GeeksForGeeks_Missing_And_Repeating": true,
+    "LeetCode_Find_Missing_and_Repeated_Values": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -201,9 +202,10 @@
     "2026-09-19": 2,
     "2026-09-20": 3,
     "2026-09-21": 7,
-    "2026-09-22": 1
+    "2026-09-22": 2
   },
   "todayProblems": [
-    "Missing And Repeating"
+    "Missing And Repeating",
+    "Find Missing and Repeated Values"
   ]
 }
