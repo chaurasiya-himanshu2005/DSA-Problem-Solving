@@ -159,3 +159,4 @@
 | 157 | [LCA in Binary Tree](./GeeksForGeeks/Medium/LCA%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1) | Medium | 23 Sept 2026 | 03:07 pm |
 | 158 | [Min Distance Between Two in Binary Tree](./GeeksForGeeks/Hard/Min%20Distance%20Between%20Two%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1) | Hard | 23 Sept 2026 | 03:18 pm |
 | 159 | [Kth Smallest](./GeeksForGeeks/Medium/Kth%20Smallest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | Medium | 23 Sept 2026 | 04:26 pm |
+| 160 | [Kth Largest](./GeeksForGeeks/Medium/Kth%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-largest-element5034/1) | Medium | 23 Sept 2026 | 04:30 pm |
