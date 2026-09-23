@@ -154,3 +154,4 @@
 | 152 | [Find Missing and Repeated Values](./LeetCode/Easy/Find%20Missing%20and%20Repeated%20Values) | [LeetCode](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | 22 Sept 2026 | 07:17 pm |
 | 153 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 22 Sept 2026 | 11:49 pm |
 | 154 | [Equilibrium Point](./GeeksForGeeks/Easy/Equilibrium%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | Easy | 23 Sept 2026 | 01:44 pm |
+| 155 | [Insert into a Binary Search Tree](./LeetCode/Medium/Insert%20into%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | 23 Sept 2026 | 02:16 pm |
