@@ -1,12 +1,12 @@
 {
-  "totalSolved": 161,
+  "totalSolved": 162,
   "currentStreak": 39,
   "maxStreak": 39,
   "lastSyncDate": "2026-09-23",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 65,
-    "medium": 40,
+    "medium": 41,
     "hard": 6,
     "basic": 50
   },
@@ -171,7 +171,8 @@
     "GeeksForGeeks_Min_Distance_Between_Two_in_Binary_Tree": true,
     "GeeksForGeeks_Kth_Smallest": true,
     "GeeksForGeeks_Kth_Largest": true,
-    "LeetCode_Find_K_Closest_Elements": true
+    "LeetCode_Find_K_Closest_Elements": true,
+    "LeetCode_K_Closest_Points_to_Origin": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -212,7 +213,7 @@
     "2026-09-20": 3,
     "2026-09-21": 7,
     "2026-09-22": 3,
-    "2026-09-23": 8
+    "2026-09-23": 9
   },
   "todayProblems": [
     "Equilibrium Point",
@@ -222,6 +223,7 @@
     "Min Distance Between Two in Binary Tree",
     "Kth Smallest",
     "Kth Largest",
-    "Find K Closest Elements"
+    "Find K Closest Elements",
+    "K Closest Points to Origin"
   ]
 }
