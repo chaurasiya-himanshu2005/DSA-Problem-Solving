@@ -157,3 +157,4 @@
 | 155 | [Insert into a Binary Search Tree](./LeetCode/Medium/Insert%20into%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | 23 Sept 2026 | 02:16 pm |
 | 156 | [Array to BST](./GeeksForGeeks/Easy/Array%20to%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-to-bst4443/1) | Easy | 23 Sept 2026 | 02:34 pm |
 | 157 | [LCA in Binary Tree](./GeeksForGeeks/Medium/LCA%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1) | Medium | 23 Sept 2026 | 03:07 pm |
+| 158 | [Min Distance Between Two in Binary Tree](./GeeksForGeeks/Hard/Min%20Distance%20Between%20Two%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1) | Hard | 23 Sept 2026 | 03:18 pm |
