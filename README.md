@@ -162,3 +162,4 @@
 | 160 | [Kth Largest](./GeeksForGeeks/Medium/Kth%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-largest-element5034/1) | Medium | 23 Sept 2026 | 04:30 pm |
 | 161 | [Find K Closest Elements](./LeetCode/Medium/Find%20K%20Closest%20Elements) | [LeetCode](https://leetcode.com/problems/find-k-closest-elements/) | Medium | 23 Sept 2026 | 04:43 pm |
 | 162 | [K Closest Points to Origin](./LeetCode/Medium/K%20Closest%20Points%20to%20Origin) | [LeetCode](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 23 Sept 2026 | 04:53 pm |
+| 163 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 24 Sept 2026 | 06:56 pm |
