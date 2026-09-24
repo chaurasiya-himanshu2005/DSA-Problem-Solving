@@ -1,14 +1,14 @@
 {
-  "totalSolved": 163,
+  "totalSolved": 164,
   "currentStreak": 40,
   "maxStreak": 40,
   "lastSyncDate": "2026-09-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 65,
     "medium": 42,
     "hard": 6,
-    "basic": 50
+    "basic": 51
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -173,7 +173,8 @@
     "GeeksForGeeks_Kth_Largest": true,
     "LeetCode_Find_K_Closest_Elements": true,
     "LeetCode_K_Closest_Points_to_Origin": true,
-    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true,
+    "GeeksForGeeks_Check_K-th_Bit": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -215,9 +216,10 @@
     "2026-09-21": 7,
     "2026-09-22": 3,
     "2026-09-23": 9,
-    "2026-09-24": 1
+    "2026-09-24": 2
   },
   "todayProblems": [
-    "Lowest Common Ancestor of a Binary Tree"
+    "Lowest Common Ancestor of a Binary Tree",
+    "Check K-th Bit"
   ]
 }
