@@ -165,3 +165,4 @@
 | 163 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 24 Sept 2026 | 06:56 pm |
 | 164 | [Check K-th Bit](./GeeksForGeeks/Basic/Check%20K-th%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | Basic | 24 Sept 2026 | 06:58 pm |
 | 165 | [Minimum Operations to Reduce X to Zero](./LeetCode/Medium/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | 25 Sept 2026 | 03:15 pm |
+| 166 | [Copy List with Random Pointer](./LeetCode/Medium/Copy%20List%20with%20Random%20Pointer) | [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | 25 Sept 2026 | 03:51 pm |
