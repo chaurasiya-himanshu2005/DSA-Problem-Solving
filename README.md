@@ -164,3 +164,4 @@
 | 162 | [K Closest Points to Origin](./LeetCode/Medium/K%20Closest%20Points%20to%20Origin) | [LeetCode](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 23 Sept 2026 | 04:53 pm |
 | 163 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 24 Sept 2026 | 06:56 pm |
 | 164 | [Check K-th Bit](./GeeksForGeeks/Basic/Check%20K-th%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | Basic | 24 Sept 2026 | 06:58 pm |
+| 165 | [Minimum Operations to Reduce X to Zero](./LeetCode/Medium/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | 25 Sept 2026 | 03:15 pm |
