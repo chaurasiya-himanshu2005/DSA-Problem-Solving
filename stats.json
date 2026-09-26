@@ -1,12 +1,12 @@
 {
-  "totalSolved": 167,
+  "totalSolved": 168,
   "currentStreak": 42,
   "maxStreak": 42,
   "lastSyncDate": "2026-09-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 65,
-    "medium": 44,
+    "medium": 45,
     "hard": 6,
     "basic": 52
   },
@@ -177,7 +177,8 @@
     "GeeksForGeeks_Check_K-th_Bit": true,
     "LeetCode_Minimum_Operations_to_Reduce_X_to_Zero": true,
     "LeetCode_Copy_List_with_Random_Pointer": true,
-    "Codeforces_705A_-_Hulk": true
+    "Codeforces_705A_-_Hulk": true,
+    "LeetCode_Binary_Search_Tree_to_Greater_Sum_Tree": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -221,9 +222,10 @@
     "2026-09-23": 9,
     "2026-09-24": 2,
     "2026-09-25": 2,
-    "2026-09-26": 1
+    "2026-09-26": 2
   },
   "todayProblems": [
-    "705A - Hulk"
+    "705A - Hulk",
+    "Binary Search Tree to Greater Sum Tree"
   ]
 }
