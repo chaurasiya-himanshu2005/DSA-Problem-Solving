@@ -1,12 +1,12 @@
 {
-  "totalSolved": 169,
-  "currentStreak": 42,
-  "maxStreak": 42,
-  "lastSyncDate": "2026-09-26",
-  "todayCount": 3,
+  "totalSolved": 170,
+  "currentStreak": 43,
+  "maxStreak": 43,
+  "lastSyncDate": "2026-09-27",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 66,
-    "medium": 45,
+    "medium": 46,
     "hard": 6,
     "basic": 52
   },
@@ -179,7 +179,8 @@
     "LeetCode_Copy_List_with_Random_Pointer": true,
     "Codeforces_705A_-_Hulk": true,
     "LeetCode_Binary_Search_Tree_to_Greater_Sum_Tree": true,
-    "LeetCode_Convert_Sorted_Array_to_Binary_Search_Tree": true
+    "LeetCode_Convert_Sorted_Array_to_Binary_Search_Tree": true,
+    "LeetCode_Construct_Binary_Search_Tree_from_Preorder_Traversal": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -223,11 +224,10 @@
     "2026-09-23": 9,
     "2026-09-24": 2,
     "2026-09-25": 2,
-    "2026-09-26": 3
+    "2026-09-26": 3,
+    "2026-09-27": 1
   },
   "todayProblems": [
-    "705A - Hulk",
-    "Binary Search Tree to Greater Sum Tree",
-    "Convert Sorted Array to Binary Search Tree"
+    "Construct Binary Search Tree from Preorder Traversal"
   ]
 }
