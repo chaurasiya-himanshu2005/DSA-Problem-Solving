@@ -170,3 +170,4 @@
 | 168 | [Binary Search Tree to Greater Sum Tree](./LeetCode/Medium/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree) | [LeetCode](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium | 26 Sept 2026 | 11:23 pm |
 | 169 | [Convert Sorted Array to Binary Search Tree](./LeetCode/Easy/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | 26 Sept 2026 | 11:43 pm |
 | 170 | [Construct Binary Search Tree from Preorder Traversal](./LeetCode/Medium/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | 27 Sept 2026 | 12:07 am |
+| 171 | [Unique Number I](./GeeksForGeeks/Easy/Unique%20Number%20I) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-unique-number/1) | Easy | 27 Sept 2026 | 12:00 pm |
