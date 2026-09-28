@@ -1,12 +1,12 @@
 {
-  "totalSolved": 175,
+  "totalSolved": 176,
   "currentStreak": 44,
   "maxStreak": 44,
   "lastSyncDate": "2026-09-28",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 68,
-    "medium": 49,
+    "medium": 50,
     "hard": 6,
     "basic": 52
   },
@@ -185,7 +185,8 @@
     "LeetCode_Roman_to_Integer": true,
     "LeetCode_Delete_Node_in_a_BST": true,
     "LeetCode_Trim_a_Binary_Search_Tree": true,
-    "LeetCode_Flatten_Binary_Tree_to_Linked_List": true
+    "LeetCode_Flatten_Binary_Tree_to_Linked_List": true,
+    "GeeksForGeeks_Add_Binary_Strings": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -231,10 +232,11 @@
     "2026-09-25": 2,
     "2026-09-26": 3,
     "2026-09-27": 4,
-    "2026-09-28": 2
+    "2026-09-28": 3
   },
   "todayProblems": [
     "Trim a Binary Search Tree",
-    "Flatten Binary Tree to Linked List"
+    "Flatten Binary Tree to Linked List",
+    "Add Binary Strings"
   ]
 }
