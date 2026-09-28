@@ -173,3 +173,4 @@
 | 171 | [Unique Number I](./GeeksForGeeks/Easy/Unique%20Number%20I) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-unique-number/1) | Easy | 27 Sept 2026 | 12:00 pm |
 | 172 | [Roman to Integer](./LeetCode/Easy/Roman%20to%20Integer) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | Easy | 27 Sept 2026 | 04:59 pm |
 | 173 | [Delete Node in a BST](./LeetCode/Medium/Delete%20Node%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | 27 Sept 2026 | 06:08 pm |
+| 174 | [Trim a Binary Search Tree](./LeetCode/Medium/Trim%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/trim-a-binary-search-tree/) | Medium | 28 Sept 2026 | 08:24 am |
