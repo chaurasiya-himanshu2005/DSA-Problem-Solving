@@ -176,3 +176,4 @@
 | 174 | [Trim a Binary Search Tree](./LeetCode/Medium/Trim%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/trim-a-binary-search-tree/) | Medium | 28 Sept 2026 | 08:24 am |
 | 175 | [Flatten Binary Tree to Linked List](./LeetCode/Medium/Flatten%20Binary%20Tree%20to%20Linked%20List) | [LeetCode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | 28 Sept 2026 | 09:46 am |
 | 176 | [Add Binary Strings](./GeeksForGeeks/Medium/Add%20Binary%20Strings) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/add-binary-strings3805/1) | Medium | 28 Sept 2026 | 08:08 pm |
+| 177 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 29 Sept 2026 | 01:59 am |
