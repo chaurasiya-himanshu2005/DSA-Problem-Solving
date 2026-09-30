@@ -187,3 +187,4 @@
 | 185 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./LeetCode/Medium/Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | 30 Sept 2026 | 11:39 pm |
 | 186 | [Boats to Save People](./LeetCode/Medium/Boats%20to%20Save%20People) | [LeetCode](https://leetcode.com/problems/boats-to-save-people/) | Medium | 30 Sept 2026 | 11:57 pm |
 | 187 | [Last Stone Weight](./LeetCode/Easy/Last%20Stone%20Weight) | [LeetCode](https://leetcode.com/problems/last-stone-weight/) | Easy | 01 Oct 2026 | 12:11 am |
+| 188 | [Min Cost to Connect Ropes](./GeeksForGeeks/Medium/Min%20Cost%20to%20Connect%20Ropes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | Medium | 01 Oct 2026 | 12:29 am |
