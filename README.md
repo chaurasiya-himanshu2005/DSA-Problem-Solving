@@ -183,3 +183,4 @@
 | 181 | [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 29 Sept 2026 | 11:25 pm |
 | 182 | [Sort Array by Increasing Frequency](./LeetCode/Easy/Sort%20Array%20by%20Increasing%20Frequency) | [LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | Easy | 30 Sept 2026 | 12:12 am |
 | 183 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 30 Sept 2026 | 03:21 pm |
+| 184 | [Missing in Array](./GeeksForGeeks/Easy/Missing%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | Easy | 30 Sept 2026 | 09:47 pm |
