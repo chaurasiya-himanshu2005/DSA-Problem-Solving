@@ -185,3 +185,4 @@
 | 183 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 30 Sept 2026 | 03:21 pm |
 | 184 | [Missing in Array](./GeeksForGeeks/Easy/Missing%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | Easy | 30 Sept 2026 | 09:47 pm |
 | 185 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./LeetCode/Medium/Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | 30 Sept 2026 | 11:39 pm |
+| 186 | [Boats to Save People](./LeetCode/Medium/Boats%20to%20Save%20People) | [LeetCode](https://leetcode.com/problems/boats-to-save-people/) | Medium | 30 Sept 2026 | 11:57 pm |

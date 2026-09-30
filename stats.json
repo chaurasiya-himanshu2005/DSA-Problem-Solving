@@ -1,12 +1,12 @@
 {
-  "totalSolved": 185,
+  "totalSolved": 186,
   "currentStreak": 46,
   "maxStreak": 46,
   "lastSyncDate": "2026-09-30",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 71,
-    "medium": 55,
+    "medium": 56,
     "hard": 6,
     "basic": 53
   },
@@ -195,7 +195,8 @@
     "LeetCode_Sort_Array_by_Increasing_Frequency": true,
     "LeetCode_Longest_Consecutive_Sequence": true,
     "GeeksForGeeks_Missing_in_Array": true,
-    "LeetCode_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings": true
+    "LeetCode_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings": true,
+    "LeetCode_Boats_to_Save_People": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -243,12 +244,13 @@
     "2026-09-27": 4,
     "2026-09-28": 3,
     "2026-09-29": 5,
-    "2026-09-30": 4
+    "2026-09-30": 5
   },
   "todayProblems": [
     "Sort Array by Increasing Frequency",
     "Longest Consecutive Sequence",
     "Missing in Array",
-    "Maximum Nesting Depth of Two Valid Parentheses Strings"
+    "Maximum Nesting Depth of Two Valid Parentheses Strings",
+    "Boats to Save People"
   ]
 }
