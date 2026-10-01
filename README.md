@@ -190,3 +190,4 @@
 | 188 | [Min Cost to Connect Ropes](./GeeksForGeeks/Medium/Min%20Cost%20to%20Connect%20Ropes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | Medium | 01 Oct 2026 | 12:29 am |
 | 189 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 01 Oct 2026 | 03:20 pm |
 | 190 | [Min Cost Climbing Stairs](./LeetCode/Easy/Min%20Cost%20Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | 01 Oct 2026 | 04:08 pm |
+| 191 | [Unique Paths](./LeetCode/Medium/Unique%20Paths) | [LeetCode](https://leetcode.com/problems/unique-paths/) | Medium | 01 Oct 2026 | 04:28 pm |

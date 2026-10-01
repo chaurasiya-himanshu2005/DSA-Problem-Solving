@@ -1,12 +1,12 @@
 {
-  "totalSolved": 190,
+  "totalSolved": 191,
   "currentStreak": 47,
   "maxStreak": 47,
   "lastSyncDate": "2026-10-01",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 73,
-    "medium": 58,
+    "medium": 59,
     "hard": 6,
     "basic": 53
   },
@@ -200,7 +200,8 @@
     "LeetCode_Last_Stone_Weight": true,
     "GeeksForGeeks_Min_Cost_to_Connect_Ropes": true,
     "LeetCode_House_Robber": true,
-    "LeetCode_Min_Cost_Climbing_Stairs": true
+    "LeetCode_Min_Cost_Climbing_Stairs": true,
+    "LeetCode_Unique_Paths": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -249,12 +250,13 @@
     "2026-09-28": 3,
     "2026-09-29": 5,
     "2026-09-30": 5,
-    "2026-10-01": 4
+    "2026-10-01": 5
   },
   "todayProblems": [
     "Last Stone Weight",
     "Min Cost to Connect Ropes",
     "House Robber",
-    "Min Cost Climbing Stairs"
+    "Min Cost Climbing Stairs",
+    "Unique Paths"
   ]
 }
