@@ -189,3 +189,4 @@
 | 187 | [Last Stone Weight](./LeetCode/Easy/Last%20Stone%20Weight) | [LeetCode](https://leetcode.com/problems/last-stone-weight/) | Easy | 01 Oct 2026 | 12:11 am |
 | 188 | [Min Cost to Connect Ropes](./GeeksForGeeks/Medium/Min%20Cost%20to%20Connect%20Ropes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | Medium | 01 Oct 2026 | 12:29 am |
 | 189 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 01 Oct 2026 | 03:20 pm |
+| 190 | [Min Cost Climbing Stairs](./LeetCode/Easy/Min%20Cost%20Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | 01 Oct 2026 | 04:08 pm |
