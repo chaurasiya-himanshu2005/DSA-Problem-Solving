@@ -191,3 +191,4 @@
 | 189 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 01 Oct 2026 | 03:20 pm |
 | 190 | [Min Cost Climbing Stairs](./LeetCode/Easy/Min%20Cost%20Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | 01 Oct 2026 | 04:08 pm |
 | 191 | [Unique Paths](./LeetCode/Medium/Unique%20Paths) | [LeetCode](https://leetcode.com/problems/unique-paths/) | Medium | 01 Oct 2026 | 04:28 pm |
+| 192 | [First Set Bit](./GeeksForGeeks/Easy/First%20Set%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1) | Easy | 02 Oct 2026 | 06:43 pm |
