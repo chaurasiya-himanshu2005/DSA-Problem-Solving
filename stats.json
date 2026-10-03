@@ -1,11 +1,11 @@
 {
-  "totalSolved": 194,
+  "totalSolved": 195,
   "currentStreak": 49,
   "maxStreak": 49,
   "lastSyncDate": "2026-10-03",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 76,
+    "easy": 77,
     "medium": 59,
     "hard": 6,
     "basic": 53
@@ -204,7 +204,8 @@
     "LeetCode_Unique_Paths": true,
     "GeeksForGeeks_First_Set_Bit": true,
     "LeetCode_First_Unique_Character_in_a_String": true,
-    "LeetCode_Valid_Anagram": true
+    "LeetCode_Valid_Anagram": true,
+    "GeeksForGeeks_Position_of_Only_Set_Bit": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -255,9 +256,10 @@
     "2026-09-30": 5,
     "2026-10-01": 5,
     "2026-10-02": 2,
-    "2026-10-03": 1
+    "2026-10-03": 2
   },
   "todayProblems": [
-    "Valid Anagram"
+    "Valid Anagram",
+    "Position of Only Set Bit"
   ]
 }
