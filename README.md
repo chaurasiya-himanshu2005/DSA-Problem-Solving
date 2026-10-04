@@ -195,3 +195,4 @@
 | 193 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 02 Oct 2026 | 06:48 pm |
 | 194 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 03 Oct 2026 | 07:27 pm |
 | 195 | [Position of Only Set Bit](./GeeksForGeeks/Easy/Position%20of%20Only%20Set%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-position-of-set-bit3706/1) | Easy | 03 Oct 2026 | 07:28 pm |
+| 196 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 04 Oct 2026 | 06:38 pm |
