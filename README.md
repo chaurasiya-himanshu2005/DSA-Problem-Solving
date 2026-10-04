@@ -197,3 +197,4 @@
 | 195 | [Position of Only Set Bit](./GeeksForGeeks/Easy/Position%20of%20Only%20Set%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-position-of-set-bit3706/1) | Easy | 03 Oct 2026 | 07:28 pm |
 | 196 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 04 Oct 2026 | 06:38 pm |
 | 197 | [Only LSB and MSB Set](./GeeksForGeeks/Basic/Only%20LSB%20and%20MSB%20Set) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-and-last-bit2357/1) | Basic | 04 Oct 2026 | 06:43 pm |
+| 198 | [208A - Dubstep](./Codeforces/basic/208A%20-%20Dubstep) | [Codeforces](https://codeforces.com/problemset/problem/208/A) | basic | 04 Oct 2026 | 06:46 pm |
