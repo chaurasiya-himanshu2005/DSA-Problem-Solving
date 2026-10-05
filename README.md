@@ -199,3 +199,4 @@
 | 197 | [Only LSB and MSB Set](./GeeksForGeeks/Basic/Only%20LSB%20and%20MSB%20Set) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-and-last-bit2357/1) | Basic | 04 Oct 2026 | 06:43 pm |
 | 198 | [208A - Dubstep](./Codeforces/basic/208A%20-%20Dubstep) | [Codeforces](https://codeforces.com/problemset/problem/208/A) | basic | 04 Oct 2026 | 06:46 pm |
 | 199 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 05 Oct 2026 | 02:14 pm |
+| 200 | [One Extra Character](./GeeksForGeeks/Easy/One%20Extra%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/one-extra-character/1) | Easy | 05 Oct 2026 | 02:20 pm |
