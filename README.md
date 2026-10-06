@@ -201,3 +201,4 @@
 | 199 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 05 Oct 2026 | 02:14 pm |
 | 200 | [One Extra Character](./GeeksForGeeks/Easy/One%20Extra%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/one-extra-character/1) | Easy | 05 Oct 2026 | 02:20 pm |
 | 201 | [Kth Smallest Element in a Sorted Matrix](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | 06 Oct 2026 | 10:08 pm |
+| 202 | [Replace with XOR of Adjacent](./GeeksForGeeks/Easy/Replace%20with%20XOR%20of%20Adjacent) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/replace-with-xor-of-adjacent/1) | Easy | 06 Oct 2026 | 10:09 pm |
