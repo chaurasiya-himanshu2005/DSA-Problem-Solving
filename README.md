@@ -202,3 +202,4 @@
 | 200 | [One Extra Character](./GeeksForGeeks/Easy/One%20Extra%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/one-extra-character/1) | Easy | 05 Oct 2026 | 02:20 pm |
 | 201 | [Kth Smallest Element in a Sorted Matrix](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | 06 Oct 2026 | 10:08 pm |
 | 202 | [Replace with XOR of Adjacent](./GeeksForGeeks/Easy/Replace%20with%20XOR%20of%20Adjacent) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/replace-with-xor-of-adjacent/1) | Easy | 06 Oct 2026 | 10:09 pm |
+| 203 | [122A - Lucky Division](./Codeforces/basic/122A%20-%20Lucky%20Division) | [Codeforces](https://codeforces.com/problemset/problem/122/A) | basic | 06 Oct 2026 | 10:17 pm |
