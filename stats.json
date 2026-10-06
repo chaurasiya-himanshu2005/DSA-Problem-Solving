@@ -1,12 +1,12 @@
 {
-  "totalSolved": 200,
-  "currentStreak": 51,
-  "maxStreak": 51,
-  "lastSyncDate": "2026-10-05",
-  "todayCount": 2,
+  "totalSolved": 201,
+  "currentStreak": 52,
+  "maxStreak": 52,
+  "lastSyncDate": "2026-10-06",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 79,
-    "medium": 60,
+    "medium": 61,
     "hard": 6,
     "basic": 55
   },
@@ -210,7 +210,8 @@
     "GeeksForGeeks_Only_LSB_and_MSB_Set": true,
     "Codeforces_208A_-_Dubstep": true,
     "LeetCode_Spiral_Matrix": true,
-    "GeeksForGeeks_One_Extra_Character": true
+    "GeeksForGeeks_One_Extra_Character": true,
+    "LeetCode_Kth_Smallest_Element_in_a_Sorted_Matrix": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -263,10 +264,10 @@
     "2026-10-02": 2,
     "2026-10-03": 2,
     "2026-10-04": 3,
-    "2026-10-05": 2
+    "2026-10-05": 2,
+    "2026-10-06": 1
   },
   "todayProblems": [
-    "Spiral Matrix",
-    "One Extra Character"
+    "Kth Smallest Element in a Sorted Matrix"
   ]
 }
