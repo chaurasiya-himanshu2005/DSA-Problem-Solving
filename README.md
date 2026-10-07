@@ -204,3 +204,4 @@
 | 202 | [Replace with XOR of Adjacent](./GeeksForGeeks/Easy/Replace%20with%20XOR%20of%20Adjacent) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/replace-with-xor-of-adjacent/1) | Easy | 06 Oct 2026 | 10:09 pm |
 | 203 | [122A - Lucky Division](./Codeforces/basic/122A%20-%20Lucky%20Division) | [Codeforces](https://codeforces.com/problemset/problem/122/A) | basic | 06 Oct 2026 | 10:17 pm |
 | 204 | [Count Set Bits](./GeeksForGeeks/Easy/Count%20Set%20Bits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-bits0143/1) | Easy | 07 Oct 2026 | 10:16 pm |
+| 205 | [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | 07 Oct 2026 | 10:19 pm |
