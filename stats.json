@@ -1,11 +1,11 @@
 {
-  "totalSolved": 206,
+  "totalSolved": 207,
   "currentStreak": 54,
   "maxStreak": 54,
   "lastSyncDate": "2026-10-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 81,
+    "easy": 82,
     "medium": 63,
     "hard": 6,
     "basic": 56
@@ -216,7 +216,8 @@
     "Codeforces_122A_-_Lucky_Division": true,
     "GeeksForGeeks_Count_Set_Bits": true,
     "LeetCode_Search_a_2D_Matrix_II": true,
-    "LeetCode_Rotate_Image": true
+    "LeetCode_Rotate_Image": true,
+    "GeeksForGeeks_Unset_Bits_in_Range": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -272,9 +273,10 @@
     "2026-10-05": 2,
     "2026-10-06": 3,
     "2026-10-07": 2,
-    "2026-10-08": 1
+    "2026-10-08": 2
   },
   "todayProblems": [
-    "Rotate Image"
+    "Rotate Image",
+    "Unset Bits in Range"
   ]
 }

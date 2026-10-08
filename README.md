@@ -206,3 +206,4 @@
 | 204 | [Count Set Bits](./GeeksForGeeks/Easy/Count%20Set%20Bits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-bits0143/1) | Easy | 07 Oct 2026 | 10:16 pm |
 | 205 | [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | 07 Oct 2026 | 10:19 pm |
 | 206 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 08 Oct 2026 | 03:04 pm |
+| 207 | [Unset Bits in Range](./GeeksForGeeks/Easy/Unset%20Bits%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-unset-bits-in-a-given-range1216/1) | Easy | 08 Oct 2026 | 03:07 pm |
