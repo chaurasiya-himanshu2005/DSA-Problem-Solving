@@ -209,3 +209,4 @@
 | 207 | [Unset Bits in Range](./GeeksForGeeks/Easy/Unset%20Bits%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-unset-bits-in-a-given-range1216/1) | Easy | 08 Oct 2026 | 03:07 pm |
 | 208 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 09 Oct 2026 | 09:49 am |
 | 209 | [Set Bits Between Given Positions](./GeeksForGeeks/Easy/Set%20Bits%20Between%20Given%20Positions) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-all-the-bits-in-given-range-of-a-number4538/1) | Easy | 09 Oct 2026 | 09:52 am |
+| 210 | [Minimum Operations to Reach n](./GeeksForGeeks/Easy/Minimum%20Operations%20to%20Reach%20n) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-optimum-operation4504/1) | Easy | 09 Oct 2026 | 12:13 pm |

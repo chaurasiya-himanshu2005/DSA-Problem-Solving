@@ -1,11 +1,11 @@
 {
-  "totalSolved": 209,
+  "totalSolved": 210,
   "currentStreak": 55,
   "maxStreak": 55,
   "lastSyncDate": "2026-10-09",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 83,
+    "easy": 84,
     "medium": 64,
     "hard": 6,
     "basic": 56
@@ -219,7 +219,8 @@
     "LeetCode_Rotate_Image": true,
     "GeeksForGeeks_Unset_Bits_in_Range": true,
     "LeetCode_Score_of_Parentheses": true,
-    "GeeksForGeeks_Set_Bits_Between_Given_Positions": true
+    "GeeksForGeeks_Set_Bits_Between_Given_Positions": true,
+    "GeeksForGeeks_Minimum_Operations_to_Reach_n": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -276,10 +277,11 @@
     "2026-10-06": 3,
     "2026-10-07": 2,
     "2026-10-08": 2,
-    "2026-10-09": 2
+    "2026-10-09": 3
   },
   "todayProblems": [
     "Score of Parentheses",
-    "Set Bits Between Given Positions"
+    "Set Bits Between Given Positions",
+    "Minimum Operations to Reach n"
   ]
 }
