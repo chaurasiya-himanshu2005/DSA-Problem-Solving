@@ -211,3 +211,4 @@
 | 209 | [Set Bits Between Given Positions](./GeeksForGeeks/Easy/Set%20Bits%20Between%20Given%20Positions) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-all-the-bits-in-given-range-of-a-number4538/1) | Easy | 09 Oct 2026 | 09:52 am |
 | 210 | [Minimum Operations to Reach n](./GeeksForGeeks/Easy/Minimum%20Operations%20to%20Reach%20n) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-optimum-operation4504/1) | Easy | 09 Oct 2026 | 12:13 pm |
 | 211 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 10 Oct 2026 | 09:18 pm |
+| 212 | [682A - Alyona and Numbers](./Codeforces/basic/682A%20-%20Alyona%20and%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/682/A) | basic | 10 Oct 2026 | 09:36 pm |

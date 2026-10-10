@@ -1,0 +1,39 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        long n = sc.nextLong();
+        long m = sc.nextLong();
+
+        long ans = 0;
+
+        for (int r = 0; r < 5; r++) {
+            long xCount = (n - r) / 5;
+            if (r == 0) xCount = n / 5;
+
+            long yCount;
+            int needed = (5 - r) % 5;
+            yCount = (m - needed) / 5;
+
+            if (needed == 0) yCount = m / 5;
+
+            if (r == 0) {
+                xCount = n / 5;
+            } else {
+                xCount = (n + 5 - r) / 5;
+            }
+
+            if (needed == 0) {
+                yCount = m / 5;
+            } else {
+                yCount = (m + 5 - needed) / 5;
+            }
+
+            ans += xCount * yCount;
+        }
+
+        System.out.println(ans);
+    }
+}
