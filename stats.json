@@ -1,11 +1,11 @@
 {
-  "totalSolved": 213,
+  "totalSolved": 214,
   "currentStreak": 57,
   "maxStreak": 57,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 86,
+    "easy": 87,
     "medium": 64,
     "hard": 6,
     "basic": 57
@@ -223,7 +223,8 @@
     "GeeksForGeeks_Minimum_Operations_to_Reach_n": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
     "Codeforces_682A_-_Alyona_and_Numbers": true,
-    "LeetCode_Sum_of_Squares_of_Special_Elements_": true
+    "LeetCode_Sum_of_Squares_of_Special_Elements_": true,
+    "GeeksForGeeks_Toggle_Bits_in_Range": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -282,9 +283,10 @@
     "2026-10-08": 2,
     "2026-10-09": 3,
     "2026-10-10": 2,
-    "2026-10-11": 1
+    "2026-10-11": 2
   },
   "todayProblems": [
-    "Sum of Squares of Special Elements "
+    "Sum of Squares of Special Elements ",
+    "Toggle Bits in Range"
   ]
 }

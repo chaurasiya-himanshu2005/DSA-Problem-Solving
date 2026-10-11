@@ -213,3 +213,4 @@
 | 211 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 10 Oct 2026 | 09:18 pm |
 | 212 | [682A - Alyona and Numbers](./Codeforces/basic/682A%20-%20Alyona%20and%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/682/A) | basic | 10 Oct 2026 | 09:36 pm |
 | 213 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 09:09 am |
+| 214 | [Toggle Bits in Range](./GeeksForGeeks/Easy/Toggle%20Bits%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/toggle-bits-given-range0952/1) | Easy | 11 Oct 2026 | 09:53 am |
