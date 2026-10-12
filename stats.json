@@ -1,11 +1,11 @@
 {
-  "totalSolved": 216,
+  "totalSolved": 217,
   "currentStreak": 58,
   "maxStreak": 58,
   "lastSyncDate": "2026-10-12",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 88,
+    "easy": 89,
     "medium": 65,
     "hard": 6,
     "basic": 57
@@ -226,7 +226,8 @@
     "LeetCode_Sum_of_Squares_of_Special_Elements_": true,
     "GeeksForGeeks_Toggle_Bits_in_Range": true,
     "GeeksForGeeks_Sort_Two_Parts_Sorted": true,
-    "LeetCode_3Sum": true
+    "LeetCode_3Sum": true,
+    "GeeksForGeeks_Longest_Consecutive_1's": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -286,9 +287,10 @@
     "2026-10-09": 3,
     "2026-10-10": 2,
     "2026-10-11": 3,
-    "2026-10-12": 1
+    "2026-10-12": 2
   },
   "todayProblems": [
-    "3Sum"
+    "3Sum",
+    "Longest Consecutive 1's"
   ]
 }
