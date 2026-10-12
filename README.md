@@ -215,3 +215,4 @@
 | 213 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 09:09 am |
 | 214 | [Toggle Bits in Range](./GeeksForGeeks/Easy/Toggle%20Bits%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/toggle-bits-given-range0952/1) | Easy | 11 Oct 2026 | 09:53 am |
 | 215 | [Sort Two Parts Sorted](./GeeksForGeeks/Easy/Sort%20Two%20Parts%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-the-half-sorted2157/1) | Easy | 11 Oct 2026 | 09:59 am |
+| 216 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 12 Oct 2026 | 04:31 pm |
