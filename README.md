@@ -217,3 +217,4 @@
 | 215 | [Sort Two Parts Sorted](./GeeksForGeeks/Easy/Sort%20Two%20Parts%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-the-half-sorted2157/1) | Easy | 11 Oct 2026 | 09:59 am |
 | 216 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 12 Oct 2026 | 04:31 pm |
 | 217 | [Longest Consecutive 1's](./GeeksForGeeks/Easy/Longest%20Consecutive%201's) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1) | Easy | 12 Oct 2026 | 04:32 pm |
+| 218 | [Power of 2](./GeeksForGeeks/Basic/Power%20of%202) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1) | Basic | 13 Oct 2026 | 09:37 am |
