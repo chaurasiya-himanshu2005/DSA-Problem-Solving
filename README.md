@@ -220,3 +220,4 @@
 | 218 | [Power of 2](./GeeksForGeeks/Basic/Power%20of%202) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1) | Basic | 13 Oct 2026 | 09:37 am |
 | 219 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 13 Oct 2026 | 07:54 pm |
 | 220 | [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | 14 Oct 2026 | 11:21 am |
+| 221 | [Negate Bits in b Using a](./GeeksForGeeks/Basic/Negate%20Bits%20in%20b%20Using%20a) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/c-nega-bit2019/1) | Basic | 14 Oct 2026 | 11:23 am |
