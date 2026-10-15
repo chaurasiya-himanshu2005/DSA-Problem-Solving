@@ -222,3 +222,4 @@
 | 220 | [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | 14 Oct 2026 | 11:21 am |
 | 221 | [Negate Bits in b Using a](./GeeksForGeeks/Basic/Negate%20Bits%20in%20b%20Using%20a) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/c-nega-bit2019/1) | Basic | 14 Oct 2026 | 11:23 am |
 | 222 | [Maximum Alternating Subsequence Sum](./LeetCode/Medium/Maximum%20Alternating%20Subsequence%20Sum) | [LeetCode](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) | Medium | 14 Oct 2026 | 11:59 am |
+| 223 | [Non-overlapping Intervals](./LeetCode/Medium/Non-overlapping%20Intervals) | [LeetCode](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | 15 Oct 2026 | 03:38 pm |

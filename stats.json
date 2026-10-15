@@ -1,12 +1,12 @@
 {
-  "totalSolved": 222,
-  "currentStreak": 60,
-  "maxStreak": 60,
-  "lastSyncDate": "2026-10-14",
-  "todayCount": 3,
+  "totalSolved": 223,
+  "currentStreak": 61,
+  "maxStreak": 61,
+  "lastSyncDate": "2026-10-15",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 90,
-    "medium": 67,
+    "medium": 68,
     "hard": 6,
     "basic": 59
   },
@@ -232,7 +232,8 @@
     "LeetCode_Move_Zeroes": true,
     "LeetCode_Maximum_Alternating_Sum_of_Squares": true,
     "GeeksForGeeks_Negate_Bits_in_b_Using_a": true,
-    "LeetCode_Maximum_Alternating_Subsequence_Sum": true
+    "LeetCode_Maximum_Alternating_Subsequence_Sum": true,
+    "LeetCode_Non-overlapping_Intervals": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -294,11 +295,10 @@
     "2026-10-11": 3,
     "2026-10-12": 2,
     "2026-10-13": 2,
-    "2026-10-14": 3
+    "2026-10-14": 3,
+    "2026-10-15": 1
   },
   "todayProblems": [
-    "Maximum Alternating Sum of Squares",
-    "Negate Bits in b Using a",
-    "Maximum Alternating Subsequence Sum"
+    "Non-overlapping Intervals"
   ]
 }
