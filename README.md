@@ -226,3 +226,4 @@
 | 224 | [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | 15 Oct 2026 | 03:58 pm |
 | 225 | [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) | [LeetCode](https://leetcode.com/problems/assign-cookies/) | Easy | 15 Oct 2026 | 04:14 pm |
 | 226 | [Lemonade Change](./LeetCode/Easy/Lemonade%20Change) | [LeetCode](https://leetcode.com/problems/lemonade-change/) | Easy | 15 Oct 2026 | 04:33 pm |
+| 227 | [Bitwise OR of Range](./GeeksForGeeks/Easy/Bitwise%20OR%20of%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ishaans-curiosity0853/1) | Easy | 15 Oct 2026 | 09:36 pm |
