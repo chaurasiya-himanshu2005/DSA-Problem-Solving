@@ -1,12 +1,12 @@
 {
-  "totalSolved": 223,
+  "totalSolved": 224,
   "currentStreak": 61,
   "maxStreak": 61,
   "lastSyncDate": "2026-10-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 90,
-    "medium": 68,
+    "medium": 69,
     "hard": 6,
     "basic": 59
   },
@@ -233,7 +233,8 @@
     "LeetCode_Maximum_Alternating_Sum_of_Squares": true,
     "GeeksForGeeks_Negate_Bits_in_b_Using_a": true,
     "LeetCode_Maximum_Alternating_Subsequence_Sum": true,
-    "LeetCode_Non-overlapping_Intervals": true
+    "LeetCode_Non-overlapping_Intervals": true,
+    "LeetCode_Container_With_Most_Water": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -296,9 +297,10 @@
     "2026-10-12": 2,
     "2026-10-13": 2,
     "2026-10-14": 3,
-    "2026-10-15": 1
+    "2026-10-15": 2
   },
   "todayProblems": [
-    "Non-overlapping Intervals"
+    "Non-overlapping Intervals",
+    "Container With Most Water"
   ]
 }
