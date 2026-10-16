@@ -227,3 +227,4 @@
 | 225 | [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) | [LeetCode](https://leetcode.com/problems/assign-cookies/) | Easy | 15 Oct 2026 | 04:14 pm |
 | 226 | [Lemonade Change](./LeetCode/Easy/Lemonade%20Change) | [LeetCode](https://leetcode.com/problems/lemonade-change/) | Easy | 15 Oct 2026 | 04:33 pm |
 | 227 | [Bitwise OR of Range](./GeeksForGeeks/Easy/Bitwise%20OR%20of%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ishaans-curiosity0853/1) | Easy | 15 Oct 2026 | 09:36 pm |
+| 228 | [Is Binary Number Multiple of 3](./GeeksForGeeks/Easy/Is%20Binary%20Number%20Multiple%20of%203) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1) | Easy | 16 Oct 2026 | 12:14 pm |
