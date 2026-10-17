@@ -230,3 +230,4 @@
 | 228 | [Is Binary Number Multiple of 3](./GeeksForGeeks/Easy/Is%20Binary%20Number%20Multiple%20of%203) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1) | Easy | 16 Oct 2026 | 12:14 pm |
 | 229 | [4Sum](./LeetCode/Medium/4Sum) | [LeetCode](https://leetcode.com/problems/4sum/) | Medium | 16 Oct 2026 | 12:45 pm |
 | 230 | [Split Array Largest Sum](./LeetCode/Hard/Split%20Array%20Largest%20Sum) | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/) | Hard | 17 Oct 2026 | 08:25 pm |
+| 231 | [Single in Array of Triples](./GeeksForGeeks/Medium/Single%20in%20Array%20of%20Triples) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1) | Medium | 17 Oct 2026 | 08:25 pm |
