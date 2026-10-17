@@ -1,13 +1,13 @@
 {
-  "totalSolved": 229,
-  "currentStreak": 62,
-  "maxStreak": 62,
-  "lastSyncDate": "2026-10-16",
-  "todayCount": 2,
+  "totalSolved": 230,
+  "currentStreak": 63,
+  "maxStreak": 63,
+  "lastSyncDate": "2026-10-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 94,
     "medium": 70,
-    "hard": 6,
+    "hard": 7,
     "basic": 59
   },
   "syncedProblems": {
@@ -239,7 +239,8 @@
     "LeetCode_Lemonade_Change": true,
     "GeeksForGeeks_Bitwise_OR_of_Range": true,
     "GeeksForGeeks_Is_Binary_Number_Multiple_of_3": true,
-    "LeetCode_4Sum": true
+    "LeetCode_4Sum": true,
+    "LeetCode_Split_Array_Largest_Sum": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -303,10 +304,10 @@
     "2026-10-13": 2,
     "2026-10-14": 3,
     "2026-10-15": 5,
-    "2026-10-16": 2
+    "2026-10-16": 2,
+    "2026-10-17": 1
   },
   "todayProblems": [
-    "Is Binary Number Multiple of 3",
-    "4Sum"
+    "Split Array Largest Sum"
   ]
 }
