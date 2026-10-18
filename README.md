@@ -231,3 +231,4 @@
 | 229 | [4Sum](./LeetCode/Medium/4Sum) | [LeetCode](https://leetcode.com/problems/4sum/) | Medium | 16 Oct 2026 | 12:45 pm |
 | 230 | [Split Array Largest Sum](./LeetCode/Hard/Split%20Array%20Largest%20Sum) | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/) | Hard | 17 Oct 2026 | 08:25 pm |
 | 231 | [Single in Array of Triples](./GeeksForGeeks/Medium/Single%20in%20Array%20of%20Triples) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1) | Medium | 17 Oct 2026 | 08:25 pm |
+| 232 | [Bleak Numbers](./GeeksForGeeks/Medium/Bleak%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bleak-numbers1552/1) | Medium | 18 Oct 2026 | 09:29 am |
