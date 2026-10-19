@@ -1,14 +1,14 @@
 {
-  "totalSolved": 233,
+  "totalSolved": 234,
   "currentStreak": 65,
   "maxStreak": 65,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 95,
     "medium": 72,
     "hard": 7,
-    "basic": 59
+    "basic": 60
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -243,7 +243,8 @@
     "LeetCode_Split_Array_Largest_Sum": true,
     "GeeksForGeeks_Single_in_Array_of_Triples": true,
     "GeeksForGeeks_Bleak_Numbers": true,
-    "LeetCode_Find_Target_Indices_After_Sorting_Array": true
+    "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
+    "Codeforces_200B_-_Drinks": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -310,9 +311,10 @@
     "2026-10-16": 2,
     "2026-10-17": 2,
     "2026-10-18": 1,
-    "2026-10-19": 1
+    "2026-10-19": 2
   },
   "todayProblems": [
-    "Find Target Indices After Sorting Array"
+    "Find Target Indices After Sorting Array",
+    "200B - Drinks"
   ]
 }
