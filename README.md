@@ -234,3 +234,4 @@
 | 232 | [Bleak Numbers](./GeeksForGeeks/Medium/Bleak%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bleak-numbers1552/1) | Medium | 18 Oct 2026 | 09:29 am |
 | 233 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 10:15 am |
 | 234 | [200B - Drinks](./Codeforces/basic/200B%20-%20Drinks) | [Codeforces](https://codeforces.com/problemset/problem/200/B) | basic | 19 Oct 2026 | 10:22 am |
+| 235 | [1607A - Linear Keyboard](./Codeforces/basic/1607A%20-%20Linear%20Keyboard) | [Codeforces](https://codeforces.com/problemset/problem/1607/A) | basic | 19 Oct 2026 | 10:25 am |
