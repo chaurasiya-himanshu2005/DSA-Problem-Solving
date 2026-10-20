@@ -235,3 +235,4 @@
 | 233 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 10:15 am |
 | 234 | [200B - Drinks](./Codeforces/basic/200B%20-%20Drinks) | [Codeforces](https://codeforces.com/problemset/problem/200/B) | basic | 19 Oct 2026 | 10:22 am |
 | 235 | [1607A - Linear Keyboard](./Codeforces/basic/1607A%20-%20Linear%20Keyboard) | [Codeforces](https://codeforces.com/problemset/problem/1607/A) | basic | 19 Oct 2026 | 10:25 am |
+| 236 | [Concatenate Non-Zero Digits and Multiply by Sum I](./LeetCode/Easy/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy | 20 Oct 2026 | 06:49 pm |
