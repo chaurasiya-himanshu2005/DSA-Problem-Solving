@@ -237,3 +237,4 @@
 | 235 | [1607A - Linear Keyboard](./Codeforces/basic/1607A%20-%20Linear%20Keyboard) | [Codeforces](https://codeforces.com/problemset/problem/1607/A) | basic | 19 Oct 2026 | 10:25 am |
 | 236 | [Concatenate Non-Zero Digits and Multiply by Sum I](./LeetCode/Easy/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy | 20 Oct 2026 | 06:49 pm |
 | 237 | [Unique Number II](./GeeksForGeeks/Medium/Unique%20Number%20II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1) | Medium | 20 Oct 2026 | 06:50 pm |
+| 238 | [Maximum Count of Positive Integer and Negative Integer](./LeetCode/Easy/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer) | [LeetCode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | Easy | 21 Oct 2026 | 05:23 pm |
