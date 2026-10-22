@@ -1,12 +1,12 @@
 {
-  "totalSolved": 240,
+  "totalSolved": 241,
   "currentStreak": 68,
   "maxStreak": 68,
   "lastSyncDate": "2026-10-22",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 99,
-    "medium": 73,
+    "medium": 74,
     "hard": 7,
     "basic": 61
   },
@@ -250,7 +250,8 @@
     "GeeksForGeeks_Unique_Number_II": true,
     "LeetCode_Maximum_Count_of_Positive_Integer_and_Negative_Integer": true,
     "GeeksForGeeks_All_Bitwise_Subsets_of_a_Number": true,
-    "LeetCode_Counting_Bits": true
+    "LeetCode_Counting_Bits": true,
+    "GeeksForGeeks_Count_Pairs_Divisible_By_K": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -320,9 +321,10 @@
     "2026-10-19": 3,
     "2026-10-20": 2,
     "2026-10-21": 2,
-    "2026-10-22": 1
+    "2026-10-22": 2
   },
   "todayProblems": [
-    "Counting Bits"
+    "Counting Bits",
+    "Count Pairs Divisible By K"
   ]
 }
