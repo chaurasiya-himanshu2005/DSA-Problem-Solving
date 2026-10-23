@@ -241,3 +241,4 @@
 | 239 | [All Bitwise Subsets of a Number](./GeeksForGeeks/Easy/All%20Bitwise%20Subsets%20of%20a%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1) | Easy | 21 Oct 2026 | 05:25 pm |
 | 240 | [Counting Bits](./LeetCode/Easy/Counting%20Bits) | [LeetCode](https://leetcode.com/problems/counting-bits/) | Easy | 22 Oct 2026 | 02:51 pm |
 | 241 | [Count Pairs Divisible By K](./GeeksForGeeks/Medium/Count%20Pairs%20Divisible%20By%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-pairs-in-array-divisible-by-k/1) | Medium | 22 Oct 2026 | 02:52 pm |
+| 242 | [Minimum Bit Flips to Convert Number](./LeetCode/Easy/Minimum%20Bit%20Flips%20to%20Convert%20Number) | [LeetCode](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Easy | 23 Oct 2026 | 10:27 pm |
