@@ -1,12 +1,12 @@
 {
-  "totalSolved": 242,
+  "totalSolved": 243,
   "currentStreak": 69,
   "maxStreak": 69,
   "lastSyncDate": "2026-10-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 100,
-    "medium": 74,
+    "medium": 75,
     "hard": 7,
     "basic": 61
   },
@@ -252,7 +252,8 @@
     "GeeksForGeeks_All_Bitwise_Subsets_of_a_Number": true,
     "LeetCode_Counting_Bits": true,
     "GeeksForGeeks_Count_Pairs_Divisible_By_K": true,
-    "LeetCode_Minimum_Bit_Flips_to_Convert_Number": true
+    "LeetCode_Minimum_Bit_Flips_to_Convert_Number": true,
+    "GeeksForGeeks_Product_of_Primes": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -323,9 +324,10 @@
     "2026-10-20": 2,
     "2026-10-21": 2,
     "2026-10-22": 2,
-    "2026-10-23": 1
+    "2026-10-23": 2
   },
   "todayProblems": [
-    "Minimum Bit Flips to Convert Number"
+    "Minimum Bit Flips to Convert Number",
+    "Product of Primes"
   ]
 }
