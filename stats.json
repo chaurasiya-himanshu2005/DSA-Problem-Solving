@@ -1,12 +1,12 @@
 {
-  "totalSolved": 249,
+  "totalSolved": 250,
   "currentStreak": 70,
   "maxStreak": 70,
   "lastSyncDate": "2026-10-24",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 102,
-    "medium": 79,
+    "medium": 80,
     "hard": 7,
     "basic": 61
   },
@@ -259,7 +259,8 @@
     "GeeksForGeeks_Remove_BST_Keys_Outside_Range": true,
     "GeeksForGeeks_Check_for_BST": true,
     "LeetCode_Validate_Binary_Search_Tree": true,
-    "LeetCode_Recover_Binary_Search_Tree": true
+    "LeetCode_Recover_Binary_Search_Tree": true,
+    "GeeksForGeeks_Lowest_Common_Ancestor_in_a_BST": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -331,7 +332,7 @@
     "2026-10-21": 2,
     "2026-10-22": 2,
     "2026-10-23": 2,
-    "2026-10-24": 6
+    "2026-10-24": 7
   },
   "todayProblems": [
     "Search in BST",
@@ -339,6 +340,7 @@
     "Remove BST Keys Outside Range",
     "Check for BST",
     "Validate Binary Search Tree",
-    "Recover Binary Search Tree"
+    "Recover Binary Search Tree",
+    "Lowest Common Ancestor in a BST"
   ]
 }

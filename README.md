@@ -249,3 +249,4 @@
 | 247 | [Check for BST](./GeeksForGeeks/Medium/Check%20for%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-for-bst/1) | Medium | 24 Oct 2026 | 03:07 pm |
 | 248 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 24 Oct 2026 | 03:13 pm |
 | 249 | [Recover Binary Search Tree](./LeetCode/Medium/Recover%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | 24 Oct 2026 | 06:11 pm |
+| 250 | [Lowest Common Ancestor in a BST](./GeeksForGeeks/Medium/Lowest%20Common%20Ancestor%20in%20a%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) | Medium | 24 Oct 2026 | 11:23 pm |
