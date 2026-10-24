@@ -247,3 +247,4 @@
 | 245 | [BST Insert](./GeeksForGeeks/Easy/BST%20Insert) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1) | Easy | 24 Oct 2026 | 11:50 am |
 | 246 | [Remove BST Keys Outside Range](./GeeksForGeeks/Medium/Remove%20BST%20Keys%20Outside%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-bst-keys-outside-given-range/1) | Medium | 24 Oct 2026 | 12:48 pm |
 | 247 | [Check for BST](./GeeksForGeeks/Medium/Check%20for%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-for-bst/1) | Medium | 24 Oct 2026 | 03:07 pm |
+| 248 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 24 Oct 2026 | 03:13 pm |
