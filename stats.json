@@ -1,12 +1,12 @@
 {
-  "totalSolved": 245,
+  "totalSolved": 246,
   "currentStreak": 70,
   "maxStreak": 70,
   "lastSyncDate": "2026-10-24",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 102,
-    "medium": 75,
+    "medium": 76,
     "hard": 7,
     "basic": 61
   },
@@ -255,7 +255,8 @@
     "LeetCode_Minimum_Bit_Flips_to_Convert_Number": true,
     "GeeksForGeeks_Product_of_Primes": true,
     "GeeksForGeeks_Search_in_BST": true,
-    "GeeksForGeeks_BST_Insert": true
+    "GeeksForGeeks_BST_Insert": true,
+    "GeeksForGeeks_Remove_BST_Keys_Outside_Range": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -327,10 +328,11 @@
     "2026-10-21": 2,
     "2026-10-22": 2,
     "2026-10-23": 2,
-    "2026-10-24": 2
+    "2026-10-24": 3
   },
   "todayProblems": [
     "Search in BST",
-    "BST Insert"
+    "BST Insert",
+    "Remove BST Keys Outside Range"
   ]
 }
