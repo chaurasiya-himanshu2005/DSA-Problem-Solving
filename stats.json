@@ -1,11 +1,11 @@
 {
-  "totalSolved": 251,
+  "totalSolved": 252,
   "currentStreak": 71,
   "maxStreak": 71,
   "lastSyncDate": "2026-10-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 102,
+    "easy": 103,
     "medium": 81,
     "hard": 7,
     "basic": 61
@@ -261,7 +261,8 @@
     "LeetCode_Validate_Binary_Search_Tree": true,
     "LeetCode_Recover_Binary_Search_Tree": true,
     "GeeksForGeeks_Lowest_Common_Ancestor_in_a_BST": true,
-    "GeeksForGeeks_Delete_from_BST": true
+    "GeeksForGeeks_Delete_from_BST": true,
+    "GeeksForGeeks_Search_Query_for_Strings": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -334,9 +335,10 @@
     "2026-10-22": 2,
     "2026-10-23": 2,
     "2026-10-24": 7,
-    "2026-10-25": 1
+    "2026-10-25": 2
   },
   "todayProblems": [
-    "Delete from BST"
+    "Delete from BST",
+    "Search Query for Strings"
   ]
 }
