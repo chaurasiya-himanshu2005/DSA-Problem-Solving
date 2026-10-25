@@ -252,3 +252,4 @@
 | 250 | [Lowest Common Ancestor in a BST](./GeeksForGeeks/Medium/Lowest%20Common%20Ancestor%20in%20a%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) | Medium | 24 Oct 2026 | 11:23 pm |
 | 251 | [Delete from BST](./GeeksForGeeks/Medium/Delete%20from%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/delete-a-node-from-bst/1) | Medium | 25 Oct 2026 | 09:11 am |
 | 252 | [Search Query for Strings](./GeeksForGeeks/Easy/Search%20Query%20for%20Strings) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-query-for-strings5049/1) | Easy | 25 Oct 2026 | 09:48 am |
+| 253 | [Largest BST Subtree](./GeeksForGeeks/Hard/Largest%20BST%20Subtree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-bst/1) | Hard | 25 Oct 2026 | 04:16 pm |
