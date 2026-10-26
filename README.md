@@ -255,3 +255,4 @@
 | 253 | [Largest BST Subtree](./GeeksForGeeks/Hard/Largest%20BST%20Subtree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-bst/1) | Hard | 25 Oct 2026 | 04:16 pm |
 | 254 | [Implement Trie (Prefix Tree)](./LeetCode/Medium/Implement%20Trie%20(Prefix%20Tree)) | [LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | 26 Oct 2026 | 10:42 am |
 | 255 | [k Largest Elements](./GeeksForGeeks/Medium/k%20Largest%20Elements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) | Medium | 26 Oct 2026 | 03:34 pm |
+| 256 | [Is Binary Tree Heap](./GeeksForGeeks/Medium/Is%20Binary%20Tree%20Heap) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1) | Medium | 26 Oct 2026 | 07:19 pm |

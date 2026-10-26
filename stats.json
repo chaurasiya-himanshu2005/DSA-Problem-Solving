@@ -1,12 +1,12 @@
 {
-  "totalSolved": 255,
+  "totalSolved": 256,
   "currentStreak": 72,
   "maxStreak": 72,
   "lastSyncDate": "2026-10-26",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 103,
-    "medium": 83,
+    "medium": 84,
     "hard": 8,
     "basic": 61
   },
@@ -265,7 +265,8 @@
     "GeeksForGeeks_Search_Query_for_Strings": true,
     "GeeksForGeeks_Largest_BST_Subtree": true,
     "LeetCode_Implement_Trie_(Prefix_Tree)": true,
-    "GeeksForGeeks_k_Largest_Elements": true
+    "GeeksForGeeks_k_Largest_Elements": true,
+    "GeeksForGeeks_Is_Binary_Tree_Heap": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -339,10 +340,11 @@
     "2026-10-23": 2,
     "2026-10-24": 7,
     "2026-10-25": 3,
-    "2026-10-26": 2
+    "2026-10-26": 3
   },
   "todayProblems": [
     "Implement Trie (Prefix Tree)",
-    "k Largest Elements"
+    "k Largest Elements",
+    "Is Binary Tree Heap"
   ]
 }
