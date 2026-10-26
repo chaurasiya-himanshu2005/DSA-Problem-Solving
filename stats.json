@@ -1,12 +1,12 @@
 {
-  "totalSolved": 254,
+  "totalSolved": 255,
   "currentStreak": 72,
   "maxStreak": 72,
   "lastSyncDate": "2026-10-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 103,
-    "medium": 82,
+    "medium": 83,
     "hard": 8,
     "basic": 61
   },
@@ -264,7 +264,8 @@
     "GeeksForGeeks_Delete_from_BST": true,
     "GeeksForGeeks_Search_Query_for_Strings": true,
     "GeeksForGeeks_Largest_BST_Subtree": true,
-    "LeetCode_Implement_Trie_(Prefix_Tree)": true
+    "LeetCode_Implement_Trie_(Prefix_Tree)": true,
+    "GeeksForGeeks_k_Largest_Elements": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -338,9 +339,10 @@
     "2026-10-23": 2,
     "2026-10-24": 7,
     "2026-10-25": 3,
-    "2026-10-26": 1
+    "2026-10-26": 2
   },
   "todayProblems": [
-    "Implement Trie (Prefix Tree)"
+    "Implement Trie (Prefix Tree)",
+    "k Largest Elements"
   ]
 }
