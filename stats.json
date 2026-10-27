@@ -1,12 +1,12 @@
 {
-  "totalSolved": 258,
+  "totalSolved": 259,
   "currentStreak": 73,
   "maxStreak": 73,
   "lastSyncDate": "2026-10-27",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 105,
-    "medium": 84,
+    "medium": 85,
     "hard": 8,
     "basic": 61
   },
@@ -268,7 +268,8 @@
     "GeeksForGeeks_k_Largest_Elements": true,
     "GeeksForGeeks_Is_Binary_Tree_Heap": true,
     "GeeksForGeeks_Fractional_Knapsack": true,
-    "GeeksForGeeks_Inorder_Successor_in_BST": true
+    "GeeksForGeeks_Inorder_Successor_in_BST": true,
+    "LeetCode_Jump_Game_II": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -343,9 +344,10 @@
     "2026-10-24": 7,
     "2026-10-25": 3,
     "2026-10-26": 4,
-    "2026-10-27": 1
+    "2026-10-27": 2
   },
   "todayProblems": [
-    "Inorder Successor in BST"
+    "Inorder Successor in BST",
+    "Jump Game II"
   ]
 }

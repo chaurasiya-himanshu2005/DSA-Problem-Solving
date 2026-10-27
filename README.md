@@ -258,3 +258,4 @@
 | 256 | [Is Binary Tree Heap](./GeeksForGeeks/Medium/Is%20Binary%20Tree%20Heap) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1) | Medium | 26 Oct 2026 | 07:19 pm |
 | 257 | [Fractional Knapsack](./GeeksForGeeks/Easy/Fractional%20Knapsack) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Easy | 26 Oct 2026 | 10:57 pm |
 | 258 | [Inorder Successor in BST](./GeeksForGeeks/Easy/Inorder%20Successor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1?utm_source=chatgpt.com) | Easy | 27 Oct 2026 | 06:20 am |
+| 259 | [Jump Game II](./LeetCode/Medium/Jump%20Game%20II) | [LeetCode](https://leetcode.com/problems/jump-game-ii/) | Medium | 27 Oct 2026 | 07:57 am |
