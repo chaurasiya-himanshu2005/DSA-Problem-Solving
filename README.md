@@ -262,3 +262,4 @@
 | 260 | [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | 28 Oct 2026 | 02:24 pm |
 | 261 | [Frequencies in a Limited Array](./GeeksForGeeks/Easy/Frequencies%20in%20a%20Limited%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1) | Easy | 28 Oct 2026 | 02:27 pm |
 | 262 | [158B - Taxi](./Codeforces/basic/158B%20-%20Taxi) | [Codeforces](https://codeforces.com/problemset/problem/158/B) | basic | 28 Oct 2026 | 02:28 pm |
+| 263 | [Transform Array In-Place](./GeeksForGeeks/Medium/Transform%20Array%20In-Place) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1) | Medium | 29 Oct 2026 | 03:54 am |
