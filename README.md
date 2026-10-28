@@ -260,3 +260,4 @@
 | 258 | [Inorder Successor in BST](./GeeksForGeeks/Easy/Inorder%20Successor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1?utm_source=chatgpt.com) | Easy | 27 Oct 2026 | 06:20 am |
 | 259 | [Jump Game II](./LeetCode/Medium/Jump%20Game%20II) | [LeetCode](https://leetcode.com/problems/jump-game-ii/) | Medium | 27 Oct 2026 | 07:57 am |
 | 260 | [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | 28 Oct 2026 | 02:24 pm |
+| 261 | [Frequencies in a Limited Array](./GeeksForGeeks/Easy/Frequencies%20in%20a%20Limited%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1) | Easy | 28 Oct 2026 | 02:27 pm |
