@@ -264,3 +264,4 @@
 | 262 | [158B - Taxi](./Codeforces/basic/158B%20-%20Taxi) | [Codeforces](https://codeforces.com/problemset/problem/158/B) | basic | 28 Oct 2026 | 02:28 pm |
 | 263 | [Transform Array In-Place](./GeeksForGeeks/Medium/Transform%20Array%20In-Place) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1) | Medium | 29 Oct 2026 | 03:54 am |
 | 264 | [Unique Number of Occurrences](./LeetCode/Easy/Unique%20Number%20of%20Occurrences) | [LeetCode](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | 29 Oct 2026 | 03:45 pm |
+| 265 | [546B - Soldier and Badges](./Codeforces/basic/546B%20-%20Soldier%20and%20Badges) | [Codeforces](https://codeforces.com/problemset/problem/546/B) | basic | 29 Oct 2026 | 03:48 pm |
