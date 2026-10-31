@@ -1,12 +1,12 @@
 {
-  "totalSolved": 267,
-  "currentStreak": 76,
-  "maxStreak": 76,
-  "lastSyncDate": "2026-10-30",
-  "todayCount": 2,
+  "totalSolved": 268,
+  "currentStreak": 77,
+  "maxStreak": 77,
+  "lastSyncDate": "2026-10-31",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 109,
-    "medium": 87,
+    "medium": 88,
     "hard": 8,
     "basic": 63
   },
@@ -277,7 +277,8 @@
     "LeetCode_Unique_Number_of_Occurrences": true,
     "Codeforces_546B_-_Soldier_and_Badges": true,
     "LeetCode_Two_Sum": true,
-    "GeeksForGeeks_Numbers_with_Odd_Factors": true
+    "GeeksForGeeks_Numbers_with_Odd_Factors": true,
+    "LeetCode_Count_Primes": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -355,10 +356,10 @@
     "2026-10-27": 2,
     "2026-10-28": 3,
     "2026-10-29": 3,
-    "2026-10-30": 2
+    "2026-10-30": 2,
+    "2026-10-31": 1
   },
   "todayProblems": [
-    "Two Sum",
-    "Numbers with Odd Factors"
+    "Count Primes"
   ]
 }
