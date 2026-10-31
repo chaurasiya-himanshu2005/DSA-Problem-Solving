@@ -270,3 +270,4 @@
 | 268 | [Count Primes](./LeetCode/Medium/Count%20Primes) | [LeetCode](https://leetcode.com/problems/count-primes/) | Medium | 31 Oct 2026 | 02:00 pm |
 | 269 | [510A - Fox And Snake](./Codeforces/basic/510A%20-%20Fox%20And%20Snake) | [Codeforces](https://codeforces.com/problemset/problem/510/A) | basic | 31 Oct 2026 | 10:11 pm |
 | 270 | [All Divisors of Number](./GeeksForGeeks/Easy/All%20Divisors%20of%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | Easy | 31 Oct 2026 | 10:12 pm |
+| 271 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 31 Oct 2026 | 10:43 pm |
