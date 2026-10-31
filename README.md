@@ -268,3 +268,4 @@
 | 266 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 30 Oct 2026 | 10:09 am |
 | 267 | [Numbers with Odd Factors](./GeeksForGeeks/Easy/Numbers%20with%20Odd%20Factors) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-odd-factors0844/1) | Easy | 30 Oct 2026 | 10:11 am |
 | 268 | [Count Primes](./LeetCode/Medium/Count%20Primes) | [LeetCode](https://leetcode.com/problems/count-primes/) | Medium | 31 Oct 2026 | 02:00 pm |
+| 269 | [510A - Fox And Snake](./Codeforces/basic/510A%20-%20Fox%20And%20Snake) | [Codeforces](https://codeforces.com/problemset/problem/510/A) | basic | 31 Oct 2026 | 10:11 pm |
