@@ -1,11 +1,11 @@
 {
-  "totalSolved": 269,
+  "totalSolved": 270,
   "currentStreak": 77,
   "maxStreak": 77,
   "lastSyncDate": "2026-10-31",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 109,
+    "easy": 110,
     "medium": 88,
     "hard": 8,
     "basic": 64
@@ -279,7 +279,8 @@
     "LeetCode_Two_Sum": true,
     "GeeksForGeeks_Numbers_with_Odd_Factors": true,
     "LeetCode_Count_Primes": true,
-    "Codeforces_510A_-_Fox_And_Snake": true
+    "Codeforces_510A_-_Fox_And_Snake": true,
+    "GeeksForGeeks_All_Divisors_of_Number": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -358,10 +359,11 @@
     "2026-10-28": 3,
     "2026-10-29": 3,
     "2026-10-30": 2,
-    "2026-10-31": 2
+    "2026-10-31": 3
   },
   "todayProblems": [
     "Count Primes",
-    "510A - Fox And Snake"
+    "510A - Fox And Snake",
+    "All Divisors of Number"
   ]
 }
