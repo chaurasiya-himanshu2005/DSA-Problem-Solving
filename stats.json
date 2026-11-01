@@ -1,12 +1,12 @@
 {
-  "totalSolved": 272,
+  "totalSolved": 273,
   "currentStreak": 78,
   "maxStreak": 78,
   "lastSyncDate": "2026-11-01",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 111,
-    "medium": 88,
+    "medium": 89,
     "hard": 8,
     "basic": 65
   },
@@ -282,7 +282,8 @@
     "Codeforces_510A_-_Fox_And_Snake": true,
     "GeeksForGeeks_All_Divisors_of_Number": true,
     "LeetCode_Count_Days_Spent_Together": true,
-    "Codeforces_617B_-_Chocolate": true
+    "Codeforces_617B_-_Chocolate": true,
+    "LeetCode_Pow(x,_n)": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -362,9 +363,10 @@
     "2026-10-29": 3,
     "2026-10-30": 2,
     "2026-10-31": 4,
-    "2026-11-01": 1
+    "2026-11-01": 2
   },
   "todayProblems": [
-    "617B - Chocolate"
+    "617B - Chocolate",
+    "Pow(x, n)"
   ]
 }
