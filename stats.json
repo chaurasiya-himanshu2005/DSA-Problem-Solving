@@ -1,14 +1,14 @@
 {
-  "totalSolved": 274,
+  "totalSolved": 275,
   "currentStreak": 79,
   "maxStreak": 79,
   "lastSyncDate": "2026-11-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 111,
     "medium": 90,
     "hard": 8,
-    "basic": 65
+    "basic": 66
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -284,7 +284,8 @@
     "LeetCode_Count_Days_Spent_Together": true,
     "Codeforces_617B_-_Chocolate": true,
     "LeetCode_Pow(x,_n)": true,
-    "LeetCode_Single_Element_in_a_Sorted_Array": true
+    "LeetCode_Single_Element_in_a_Sorted_Array": true,
+    "GeeksForGeeks_Array_Subset": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -365,9 +366,10 @@
     "2026-10-30": 2,
     "2026-10-31": 4,
     "2026-11-01": 2,
-    "2026-11-02": 1
+    "2026-11-02": 2
   },
   "todayProblems": [
-    "Single Element in a Sorted Array"
+    "Single Element in a Sorted Array",
+    "Array Subset"
   ]
 }
