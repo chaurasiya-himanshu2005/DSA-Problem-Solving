@@ -273,3 +273,4 @@
 | 271 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 31 Oct 2026 | 10:43 pm |
 | 272 | [617B - Chocolate](./Codeforces/basic/617B%20-%20Chocolate) | [Codeforces](https://codeforces.com/problemset/problem/617/B) | basic | 01 Nov 2026 | 03:10 pm |
 | 273 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 01 Nov 2026 | 03:16 pm |
+| 274 | [Single Element in a Sorted Array](./LeetCode/Medium/Single%20Element%20in%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | 02 Nov 2026 | 03:53 pm |
