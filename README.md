@@ -278,3 +278,4 @@
 | 276 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 03 Nov 2026 | 12:44 pm |
 | 277 | [344B - Simple Molecules](./Codeforces/basic/344B%20-%20Simple%20Molecules) | [Codeforces](https://codeforces.com/problemset/problem/344/B) | basic | 03 Nov 2026 | 01:15 pm |
 | 278 | [Check If Array Pairs Are Divisible by k](./LeetCode/Medium/Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k) | [LeetCode](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Medium | 04 Nov 2026 | 01:33 pm |
+| 279 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 04 Nov 2026 | 01:36 pm |
