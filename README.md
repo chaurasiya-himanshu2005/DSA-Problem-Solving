@@ -277,3 +277,4 @@
 | 275 | [Array Subset](./GeeksForGeeks/Basic/Array%20Subset) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | Basic | 02 Nov 2026 | 04:07 pm |
 | 276 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 03 Nov 2026 | 12:44 pm |
 | 277 | [344B - Simple Molecules](./Codeforces/basic/344B%20-%20Simple%20Molecules) | [Codeforces](https://codeforces.com/problemset/problem/344/B) | basic | 03 Nov 2026 | 01:15 pm |
+| 278 | [Check If Array Pairs Are Divisible by k](./LeetCode/Medium/Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k) | [LeetCode](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Medium | 04 Nov 2026 | 01:33 pm |
