@@ -280,3 +280,4 @@
 | 278 | [Check If Array Pairs Are Divisible by k](./LeetCode/Medium/Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k) | [LeetCode](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Medium | 04 Nov 2026 | 01:33 pm |
 | 279 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 04 Nov 2026 | 01:36 pm |
 | 280 | [Floor in Sorted Array](./GeeksForGeeks/Easy/Floor%20in%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | Easy | 04 Nov 2026 | 01:38 pm |
+| 281 | [1328A - Divisibility Problem](./Codeforces/basic/1328A%20-%20Divisibility%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/1328/A) | basic | 04 Nov 2026 | 01:39 pm |
