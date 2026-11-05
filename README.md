@@ -282,3 +282,4 @@
 | 280 | [Floor in Sorted Array](./GeeksForGeeks/Easy/Floor%20in%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | Easy | 04 Nov 2026 | 01:38 pm |
 | 281 | [1328A - Divisibility Problem](./Codeforces/basic/1328A%20-%20Divisibility%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/1328/A) | basic | 04 Nov 2026 | 01:39 pm |
 | 282 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 05 Nov 2026 | 01:10 pm |
+| 283 | [Missing Element in Range](./GeeksForGeeks/Medium/Missing%20Element%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/missing-element-in-range/1) | Medium | 05 Nov 2026 | 01:12 pm |
