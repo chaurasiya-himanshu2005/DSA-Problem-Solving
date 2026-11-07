@@ -285,3 +285,4 @@
 | 283 | [Missing Element in Range](./GeeksForGeeks/Medium/Missing%20Element%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/missing-element-in-range/1) | Medium | 05 Nov 2026 | 01:12 pm |
 | 284 | [Most Frequent Character](./GeeksForGeeks/Easy/Most%20Frequent%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1) | Easy | 06 Nov 2026 | 05:34 pm |
 | 285 | [K-diff Pairs in an Array](./LeetCode/Medium/K-diff%20Pairs%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | Medium | 07 Nov 2026 | 05:06 pm |
+| 286 | [Binary Search](./GeeksForGeeks/Basic/Binary%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) | Basic | 07 Nov 2026 | 05:10 pm |
