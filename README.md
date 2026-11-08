@@ -288,3 +288,4 @@
 | 286 | [Binary Search](./GeeksForGeeks/Basic/Binary%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) | Basic | 07 Nov 2026 | 05:10 pm |
 | 287 | [Guess Number Higher or Lower](./LeetCode/Easy/Guess%20Number%20Higher%20or%20Lower) | [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | 08 Nov 2026 | 11:15 am |
 | 288 | [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | 08 Nov 2026 | 11:21 am |
+| 289 | [Numbers with Given Digit](./GeeksForGeeks/Basic/Numbers%20with%20Given%20Digit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-number-which-contain-the-digit-d4144/1) | Basic | 08 Nov 2026 | 11:24 am |

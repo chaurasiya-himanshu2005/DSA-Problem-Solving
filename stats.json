@@ -1,14 +1,14 @@
 {
-  "totalSolved": 289,
+  "totalSolved": 290,
   "currentStreak": 85,
   "maxStreak": 85,
   "lastSyncDate": "2026-11-08",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 115,
     "medium": 97,
     "hard": 8,
-    "basic": 69
+    "basic": 70
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -299,7 +299,8 @@
     "LeetCode_K-diff_Pairs_in_an_Array": true,
     "GeeksForGeeks_Binary_Search": true,
     "LeetCode_Guess_Number_Higher_or_Lower": true,
-    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true
+    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true,
+    "GeeksForGeeks_Numbers_with_Given_Digit": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -386,10 +387,11 @@
     "2026-11-05": 2,
     "2026-11-06": 2,
     "2026-11-07": 2,
-    "2026-11-08": 2
+    "2026-11-08": 3
   },
   "todayProblems": [
     "Guess Number Higher or Lower",
-    "Minimum Moves to Equal Array Elements II"
+    "Minimum Moves to Equal Array Elements II",
+    "Numbers with Given Digit"
   ]
 }
