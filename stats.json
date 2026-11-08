@@ -1,11 +1,11 @@
 {
-  "totalSolved": 287,
-  "currentStreak": 84,
-  "maxStreak": 84,
-  "lastSyncDate": "2026-11-07",
-  "todayCount": 2,
+  "totalSolved": 288,
+  "currentStreak": 85,
+  "maxStreak": 85,
+  "lastSyncDate": "2026-11-08",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 114,
+    "easy": 115,
     "medium": 96,
     "hard": 8,
     "basic": 69
@@ -297,7 +297,8 @@
     "LeetCode_Rotate_Array": true,
     "GeeksForGeeks_Most_Frequent_Character": true,
     "LeetCode_K-diff_Pairs_in_an_Array": true,
-    "GeeksForGeeks_Binary_Search": true
+    "GeeksForGeeks_Binary_Search": true,
+    "LeetCode_Guess_Number_Higher_or_Lower": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -383,10 +384,10 @@
     "2026-11-04": 4,
     "2026-11-05": 2,
     "2026-11-06": 2,
-    "2026-11-07": 2
+    "2026-11-07": 2,
+    "2026-11-08": 1
   },
   "todayProblems": [
-    "K-diff Pairs in an Array",
-    "Binary Search"
+    "Guess Number Higher or Lower"
   ]
 }
