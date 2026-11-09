@@ -290,3 +290,4 @@
 | 288 | [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | 08 Nov 2026 | 11:21 am |
 | 289 | [Numbers with Given Digit](./GeeksForGeeks/Basic/Numbers%20with%20Given%20Digit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-number-which-contain-the-digit-d4144/1) | Basic | 08 Nov 2026 | 11:24 am |
 | 290 | [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | 09 Nov 2026 | 01:45 pm |
+| 291 | [Count Prefix Maximums](./GeeksForGeeks/Basic/Count%20Prefix%20Maximums) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/elements-before-which-no-element-is-bigger0602/1) | Basic | 09 Nov 2026 | 01:45 pm |
