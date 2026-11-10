@@ -1,12 +1,12 @@
 {
-  "totalSolved": 293,
+  "totalSolved": 294,
   "currentStreak": 87,
   "maxStreak": 87,
   "lastSyncDate": "2026-11-10",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 116,
-    "medium": 98,
+    "medium": 99,
     "hard": 8,
     "basic": 71
   },
@@ -303,7 +303,8 @@
     "GeeksForGeeks_Numbers_with_Given_Digit": true,
     "LeetCode_Find_All_Numbers_Disappeared_in_an_Array": true,
     "GeeksForGeeks_Count_Prefix_Maximums": true,
-    "LeetCode_Peak_Index_in_a_Mountain_Array": true
+    "LeetCode_Peak_Index_in_a_Mountain_Array": true,
+    "GeeksForGeeks_First_and_Last_in_Sorted": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -392,9 +393,10 @@
     "2026-11-07": 2,
     "2026-11-08": 3,
     "2026-11-09": 2,
-    "2026-11-10": 1
+    "2026-11-10": 2
   },
   "todayProblems": [
-    "Peak Index in a Mountain Array"
+    "Peak Index in a Mountain Array",
+    "First and Last in Sorted"
   ]
 }
