@@ -294,3 +294,4 @@
 | 292 | [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | 10 Nov 2026 | 10:51 am |
 | 293 | [First and Last in Sorted](./GeeksForGeeks/Medium/First%20and%20Last%20in%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Medium | 10 Nov 2026 | 10:53 am |
 | 294 | [Factorial Trailing Zeroes](./LeetCode/Medium/Factorial%20Trailing%20Zeroes) | [LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes/) | Medium | 11 Nov 2026 | 01:22 pm |
+| 295 | [Single Among Doubles in a Sorted](./GeeksForGeeks/Medium/Single%20Among%20Doubles%20in%20a%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1) | Medium | 11 Nov 2026 | 01:25 pm |
