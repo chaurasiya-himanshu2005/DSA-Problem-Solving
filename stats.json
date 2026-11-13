@@ -1,12 +1,12 @@
 {
-  "totalSolved": 298,
+  "totalSolved": 299,
   "currentStreak": 90,
   "maxStreak": 90,
   "lastSyncDate": "2026-11-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 117,
-    "medium": 101,
+    "medium": 102,
     "hard": 9,
     "basic": 71
   },
@@ -308,7 +308,8 @@
     "LeetCode_Factorial_Trailing_Zeroes": true,
     "GeeksForGeeks_Single_Among_Doubles_in_a_Sorted": true,
     "GeeksForGeeks_Painter's_Partition_Problem": true,
-    "LeetCode_Valid_Perfect_Square": true
+    "LeetCode_Valid_Perfect_Square": true,
+    "GeeksForGeeks_Aggressive_Cows": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -400,9 +401,10 @@
     "2026-11-10": 2,
     "2026-11-11": 2,
     "2026-11-12": 1,
-    "2026-11-13": 1
+    "2026-11-13": 2
   },
   "todayProblems": [
-    "Valid Perfect Square"
+    "Valid Perfect Square",
+    "Aggressive Cows"
   ]
 }
