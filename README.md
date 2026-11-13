@@ -296,3 +296,4 @@
 | 294 | [Factorial Trailing Zeroes](./LeetCode/Medium/Factorial%20Trailing%20Zeroes) | [LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes/) | Medium | 11 Nov 2026 | 01:22 pm |
 | 295 | [Single Among Doubles in a Sorted](./GeeksForGeeks/Medium/Single%20Among%20Doubles%20in%20a%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1) | Medium | 11 Nov 2026 | 01:25 pm |
 | 296 | [Painter's Partition Problem](./GeeksForGeeks/Hard/Painter's%20Partition%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) | Hard | 12 Nov 2026 | 08:26 pm |
+| 297 | [Valid Perfect Square](./LeetCode/Easy/Valid%20Perfect%20Square) | [LeetCode](https://leetcode.com/problems/valid-perfect-square/) | Easy | 13 Nov 2026 | 01:03 pm |
