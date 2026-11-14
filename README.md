@@ -298,3 +298,4 @@
 | 296 | [Painter's Partition Problem](./GeeksForGeeks/Hard/Painter's%20Partition%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) | Hard | 12 Nov 2026 | 08:26 pm |
 | 297 | [Valid Perfect Square](./LeetCode/Easy/Valid%20Perfect%20Square) | [LeetCode](https://leetcode.com/problems/valid-perfect-square/) | Easy | 13 Nov 2026 | 01:03 pm |
 | 298 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 13 Nov 2026 | 01:44 pm |
+| 299 | [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | 14 Nov 2026 | 12:15 pm |
