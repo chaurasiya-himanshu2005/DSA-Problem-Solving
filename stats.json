@@ -1,14 +1,14 @@
 {
-  "totalSolved": 300,
+  "totalSolved": 301,
   "currentStreak": 91,
   "maxStreak": 91,
   "lastSyncDate": "2026-11-14",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 118,
     "medium": 102,
     "hard": 9,
-    "basic": 71
+    "basic": 72
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -310,7 +310,8 @@
     "GeeksForGeeks_Painter's_Partition_Problem": true,
     "LeetCode_Valid_Perfect_Square": true,
     "GeeksForGeeks_Aggressive_Cows": true,
-    "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true
+    "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true,
+    "GeeksForGeeks_First_1_in_Sorted_Binary": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -403,9 +404,10 @@
     "2026-11-11": 2,
     "2026-11-12": 1,
     "2026-11-13": 2,
-    "2026-11-14": 1
+    "2026-11-14": 2
   },
   "todayProblems": [
-    "Find Smallest Letter Greater Than Target"
+    "Find Smallest Letter Greater Than Target",
+    "First 1 in Sorted Binary"
   ]
 }

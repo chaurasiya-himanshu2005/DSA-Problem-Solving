@@ -299,3 +299,4 @@
 | 297 | [Valid Perfect Square](./LeetCode/Easy/Valid%20Perfect%20Square) | [LeetCode](https://leetcode.com/problems/valid-perfect-square/) | Easy | 13 Nov 2026 | 01:03 pm |
 | 298 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 13 Nov 2026 | 01:44 pm |
 | 299 | [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | 14 Nov 2026 | 12:15 pm |
+| 300 | [First 1 in Sorted Binary](./GeeksForGeeks/Basic/First%201%20in%20Sorted%20Binary) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1) | Basic | 14 Nov 2026 | 12:16 pm |
