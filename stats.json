@@ -1,12 +1,12 @@
 {
-  "totalSolved": 302,
+  "totalSolved": 303,
   "currentStreak": 92,
   "maxStreak": 92,
   "lastSyncDate": "2026-11-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 118,
-    "medium": 103,
+    "medium": 104,
     "hard": 9,
     "basic": 72
   },
@@ -312,7 +312,8 @@
     "GeeksForGeeks_Aggressive_Cows": true,
     "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true,
     "GeeksForGeeks_First_1_in_Sorted_Binary": true,
-    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
+    "GeeksForGeeks_Largest_Subarray_with_0_Sum": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -406,9 +407,10 @@
     "2026-11-12": 1,
     "2026-11-13": 2,
     "2026-11-14": 2,
-    "2026-11-15": 1
+    "2026-11-15": 2
   },
   "todayProblems": [
-    "Find First and Last Position of Element in Sorted Array"
+    "Find First and Last Position of Element in Sorted Array",
+    "Largest Subarray with 0 Sum"
   ]
 }
