@@ -305,3 +305,4 @@
 | 303 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 16 Nov 2026 | 07:51 am |
 | 304 | [Count Distinct Elements in Every Window](./GeeksForGeeks/Medium/Count%20Distinct%20Elements%20in%20Every%20Window) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | Medium | 16 Nov 2026 | 07:52 am |
 | 305 | [Common Elements](./GeeksForGeeks/Easy/Common%20Elements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/common-elements5420/1) | Easy | 17 Nov 2026 | 05:44 pm |
+| 306 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 17 Nov 2026 | 05:46 pm |
