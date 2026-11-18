@@ -1,14 +1,14 @@
 {
-  "totalSolved": 308,
+  "totalSolved": 309,
   "currentStreak": 95,
   "maxStreak": 95,
   "lastSyncDate": "2026-11-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 120,
     "medium": 107,
     "hard": 9,
-    "basic": 72
+    "basic": 73
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -318,7 +318,8 @@
     "GeeksForGeeks_Count_Distinct_Elements_in_Every_Window": true,
     "GeeksForGeeks_Common_Elements": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
-    "LeetCode_Arranging_Coins": true
+    "LeetCode_Arranging_Coins": true,
+    "GeeksForGeeks_Change_the_Case_based_on_First_Character": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -415,9 +416,10 @@
     "2026-11-15": 2,
     "2026-11-16": 2,
     "2026-11-17": 2,
-    "2026-11-18": 1
+    "2026-11-18": 2
   },
   "todayProblems": [
-    "Arranging Coins"
+    "Arranging Coins",
+    "Change the Case based on First Character"
   ]
 }
