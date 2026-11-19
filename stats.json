@@ -1,12 +1,12 @@
 {
-  "totalSolved": 311,
+  "totalSolved": 312,
   "currentStreak": 96,
   "maxStreak": 96,
   "lastSyncDate": "2026-11-19",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 120,
-    "medium": 109,
+    "medium": 110,
     "hard": 9,
     "basic": 73
   },
@@ -321,7 +321,8 @@
     "LeetCode_Arranging_Coins": true,
     "GeeksForGeeks_Change_the_Case_based_on_First_Character": true,
     "LeetCode_Reverse_Integer": true,
-    "GeeksForGeeks_Sum_All_Substrings_of_Number": true
+    "GeeksForGeeks_Sum_All_Substrings_of_Number": true,
+    "GeeksForGeeks_0_-_1_Knapsack_Problem": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -419,10 +420,11 @@
     "2026-11-16": 2,
     "2026-11-17": 2,
     "2026-11-18": 2,
-    "2026-11-19": 2
+    "2026-11-19": 3
   },
   "todayProblems": [
     "Reverse Integer",
-    "Sum All Substrings of Number"
+    "Sum All Substrings of Number",
+    "0 - 1 Knapsack Problem"
   ]
 }

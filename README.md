@@ -310,3 +310,4 @@
 | 308 | [Change the Case based on First Character](./GeeksForGeeks/Basic/Change%20the%20Case%20based%20on%20First%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/change-the-string3541/1) | Basic | 18 Nov 2026 | 10:36 am |
 | 309 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 19 Nov 2026 | 10:50 am |
 | 310 | [Sum All Substrings of Number](./GeeksForGeeks/Medium/Sum%20All%20Substrings%20of%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1) | Medium | 19 Nov 2026 | 10:51 am |
+| 311 | [0 - 1 Knapsack Problem](./GeeksForGeeks/Medium/0%20-%201%20Knapsack%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | Medium | 19 Nov 2026 | 03:29 pm |
