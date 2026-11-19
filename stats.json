@@ -1,12 +1,12 @@
 {
-  "totalSolved": 312,
+  "totalSolved": 313,
   "currentStreak": 96,
   "maxStreak": 96,
   "lastSyncDate": "2026-11-19",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 120,
-    "medium": 110,
+    "medium": 111,
     "hard": 9,
     "basic": 73
   },
@@ -322,7 +322,8 @@
     "GeeksForGeeks_Change_the_Case_based_on_First_Character": true,
     "LeetCode_Reverse_Integer": true,
     "GeeksForGeeks_Sum_All_Substrings_of_Number": true,
-    "GeeksForGeeks_0_-_1_Knapsack_Problem": true
+    "GeeksForGeeks_0_-_1_Knapsack_Problem": true,
+    "GeeksForGeeks_Knapsack_with_Duplicate_Items": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -420,11 +421,12 @@
     "2026-11-16": 2,
     "2026-11-17": 2,
     "2026-11-18": 2,
-    "2026-11-19": 3
+    "2026-11-19": 4
   },
   "todayProblems": [
     "Reverse Integer",
     "Sum All Substrings of Number",
-    "0 - 1 Knapsack Problem"
+    "0 - 1 Knapsack Problem",
+    "Knapsack with Duplicate Items"
   ]
 }
