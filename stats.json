@@ -1,12 +1,12 @@
 {
-  "totalSolved": 310,
+  "totalSolved": 311,
   "currentStreak": 96,
   "maxStreak": 96,
   "lastSyncDate": "2026-11-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 120,
-    "medium": 108,
+    "medium": 109,
     "hard": 9,
     "basic": 73
   },
@@ -320,7 +320,8 @@
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
     "LeetCode_Arranging_Coins": true,
     "GeeksForGeeks_Change_the_Case_based_on_First_Character": true,
-    "LeetCode_Reverse_Integer": true
+    "LeetCode_Reverse_Integer": true,
+    "GeeksForGeeks_Sum_All_Substrings_of_Number": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -418,9 +419,10 @@
     "2026-11-16": 2,
     "2026-11-17": 2,
     "2026-11-18": 2,
-    "2026-11-19": 1
+    "2026-11-19": 2
   },
   "todayProblems": [
-    "Reverse Integer"
+    "Reverse Integer",
+    "Sum All Substrings of Number"
   ]
 }
