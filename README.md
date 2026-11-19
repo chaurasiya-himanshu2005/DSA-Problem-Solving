@@ -308,3 +308,4 @@
 | 306 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 17 Nov 2026 | 05:46 pm |
 | 307 | [Arranging Coins](./LeetCode/Easy/Arranging%20Coins) | [LeetCode](https://leetcode.com/problems/arranging-coins/) | Easy | 18 Nov 2026 | 10:32 am |
 | 308 | [Change the Case based on First Character](./GeeksForGeeks/Basic/Change%20the%20Case%20based%20on%20First%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/change-the-string3541/1) | Basic | 18 Nov 2026 | 10:36 am |
+| 309 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 19 Nov 2026 | 10:50 am |
