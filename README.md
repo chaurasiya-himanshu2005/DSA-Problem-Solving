@@ -314,3 +314,4 @@
 | 312 | [Knapsack with Duplicate Items](./GeeksForGeeks/Medium/Knapsack%20with%20Duplicate%20Items) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | Medium | 19 Nov 2026 | 03:41 pm |
 | 313 | [Partition Equal Subset Sum](./LeetCode/Medium/Partition%20Equal%20Subset%20Sum) | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | 19 Nov 2026 | 04:11 pm |
 | 314 | [Nth Fibonacci Number](./GeeksForGeeks/Easy/Nth%20Fibonacci%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1) | Easy | 20 Nov 2026 | 11:57 am |
+| 315 | [Minimum Score by Changing Two Elements](./LeetCode/Medium/Minimum%20Score%20by%20Changing%20Two%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium | 20 Nov 2026 | 12:44 pm |
