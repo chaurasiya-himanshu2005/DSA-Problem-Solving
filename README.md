@@ -313,3 +313,4 @@
 | 311 | [0 - 1 Knapsack Problem](./GeeksForGeeks/Medium/0%20-%201%20Knapsack%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | Medium | 19 Nov 2026 | 03:29 pm |
 | 312 | [Knapsack with Duplicate Items](./GeeksForGeeks/Medium/Knapsack%20with%20Duplicate%20Items) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | Medium | 19 Nov 2026 | 03:41 pm |
 | 313 | [Partition Equal Subset Sum](./LeetCode/Medium/Partition%20Equal%20Subset%20Sum) | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | 19 Nov 2026 | 04:11 pm |
+| 314 | [Nth Fibonacci Number](./GeeksForGeeks/Easy/Nth%20Fibonacci%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1) | Easy | 20 Nov 2026 | 11:57 am |
