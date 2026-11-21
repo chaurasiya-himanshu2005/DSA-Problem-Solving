@@ -1,14 +1,14 @@
 {
-  "totalSolved": 317,
+  "totalSolved": 318,
   "currentStreak": 98,
   "maxStreak": 98,
   "lastSyncDate": "2026-11-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 122,
     "medium": 113,
     "hard": 9,
-    "basic": 73
+    "basic": 74
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -327,7 +327,8 @@
     "LeetCode_Partition_Equal_Subset_Sum": true,
     "GeeksForGeeks_Nth_Fibonacci_Number": true,
     "LeetCode_Minimum_Score_by_Changing_Two_Elements": true,
-    "LeetCode_Elevator_Requests_I": true
+    "LeetCode_Elevator_Requests_I": true,
+    "GeeksForGeeks_Nth_Even_Fibonacci": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -427,9 +428,10 @@
     "2026-11-18": 2,
     "2026-11-19": 5,
     "2026-11-20": 2,
-    "2026-11-21": 1
+    "2026-11-21": 2
   },
   "todayProblems": [
-    "Elevator Requests I"
+    "Elevator Requests I",
+    "Nth Even Fibonacci"
   ]
 }
