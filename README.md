@@ -319,3 +319,4 @@
 | 317 | [Nth Even Fibonacci](./GeeksForGeeks/Basic/Nth%20Even%20Fibonacci) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-even-fibonacci-number1119/1) | Basic | 21 Nov 2026 | 12:19 pm |
 | 318 | [All Pairs with Diff k](./GeeksForGeeks/Easy/All%20Pairs%20with%20Diff%20k) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pairs-with-difference-k1713/1) | Easy | 22 Nov 2026 | 09:21 am |
 | 319 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 22 Nov 2026 | 09:22 am |
+| 320 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 23 Nov 2026 | 10:49 pm |
