@@ -321,3 +321,4 @@
 | 319 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 22 Nov 2026 | 09:22 am |
 | 320 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 23 Nov 2026 | 10:49 pm |
 | 321 | [Palindrome String](./GeeksForGeeks/Basic/Palindrome%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | Basic | 23 Nov 2026 | 10:49 pm |
+| 322 | [N-th Tribonacci Number](./LeetCode/Easy/N-th%20Tribonacci%20Number) | [LeetCode](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | 24 Nov 2026 | 09:08 pm |
