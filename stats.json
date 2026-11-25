@@ -1,11 +1,11 @@
 {
-  "totalSolved": 324,
-  "currentStreak": 101,
-  "maxStreak": 101,
-  "lastSyncDate": "2026-11-24",
-  "todayCount": 2,
+  "totalSolved": 325,
+  "currentStreak": 102,
+  "maxStreak": 102,
+  "lastSyncDate": "2026-11-25",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 126,
+    "easy": 127,
     "medium": 114,
     "hard": 9,
     "basic": 75
@@ -334,7 +334,8 @@
     "LeetCode_Search_Insert_Position": true,
     "GeeksForGeeks_Palindrome_String": true,
     "LeetCode_N-th_Tribonacci_Number": true,
-    "GeeksForGeeks_Raise_to_Power_of_Its_Own_Reverse": true
+    "GeeksForGeeks_Raise_to_Power_of_Its_Own_Reverse": true,
+    "LeetCode_Binary_Search": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -437,10 +438,10 @@
     "2026-11-21": 2,
     "2026-11-22": 2,
     "2026-11-23": 2,
-    "2026-11-24": 2
+    "2026-11-24": 2,
+    "2026-11-25": 1
   },
   "todayProblems": [
-    "N-th Tribonacci Number",
-    "Raise to Power of Its Own Reverse"
+    "Binary Search"
   ]
 }
