@@ -1,12 +1,12 @@
 {
-  "totalSolved": 326,
+  "totalSolved": 327,
   "currentStreak": 102,
   "maxStreak": 102,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 128,
-    "medium": 114,
+    "medium": 115,
     "hard": 9,
     "basic": 75
   },
@@ -336,7 +336,8 @@
     "LeetCode_N-th_Tribonacci_Number": true,
     "GeeksForGeeks_Raise_to_Power_of_Its_Own_Reverse": true,
     "LeetCode_Binary_Search": true,
-    "GeeksForGeeks_Implement_Lower_Bound": true
+    "GeeksForGeeks_Implement_Lower_Bound": true,
+    "LeetCode_Longest_Common_Subsequence": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -440,10 +441,11 @@
     "2026-11-22": 2,
     "2026-11-23": 2,
     "2026-11-24": 2,
-    "2026-11-25": 2
+    "2026-11-25": 3
   },
   "todayProblems": [
     "Binary Search",
-    "Implement Lower Bound"
+    "Implement Lower Bound",
+    "Longest Common Subsequence"
   ]
 }

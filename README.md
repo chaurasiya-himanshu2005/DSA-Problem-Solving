@@ -324,3 +324,4 @@
 | 322 | [N-th Tribonacci Number](./LeetCode/Easy/N-th%20Tribonacci%20Number) | [LeetCode](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | 24 Nov 2026 | 09:08 pm |
 | 323 | [Raise to Power of Its Own Reverse](./GeeksForGeeks/Medium/Raise%20to%20Power%20of%20Its%20Own%20Reverse) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | Medium | 24 Nov 2026 | 09:10 pm |
 | 324 | [Implement Lower Bound](./GeeksForGeeks/Easy/Implement%20Lower%20Bound) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-lower-bound/1) | Easy | 25 Nov 2026 | 01:32 pm |
+| 325 | [Longest Common Subsequence](./LeetCode/Medium/Longest%20Common%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-common-subsequence/) | Medium | 25 Nov 2026 | 02:26 pm |
