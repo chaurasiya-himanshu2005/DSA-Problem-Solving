@@ -1,12 +1,12 @@
 {
-  "totalSolved": 331,
+  "totalSolved": 332,
   "currentStreak": 103,
   "maxStreak": 103,
   "lastSyncDate": "2026-11-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 129,
-    "medium": 117,
+    "medium": 118,
     "hard": 10,
     "basic": 75
   },
@@ -341,7 +341,8 @@
     "LeetCode_Longest_Palindromic_Subsequence": true,
     "LeetCode_Minimum_Insertion_Steps_to_Make_a_String_Palindrome": true,
     "LeetCode_Longest_Increasing_Subsequence": true,
-    "GeeksForGeeks_BFS_of_Graph": true
+    "GeeksForGeeks_BFS_of_Graph": true,
+    "LeetCode_Number_of_Provinces": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -446,9 +447,10 @@
     "2026-11-23": 2,
     "2026-11-24": 2,
     "2026-11-25": 6,
-    "2026-11-26": 1
+    "2026-11-26": 2
   },
   "todayProblems": [
-    "BFS of Graph"
+    "BFS of Graph",
+    "Number of Provinces"
   ]
 }
