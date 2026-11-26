@@ -330,3 +330,4 @@
 | 328 | [Longest Increasing Subsequence](./LeetCode/Medium/Longest%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | 25 Nov 2026 | 03:56 pm |
 | 329 | [BFS of Graph](./GeeksForGeeks/Easy/BFS%20of%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Easy | 26 Nov 2026 | 03:04 pm |
 | 330 | [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) | [LeetCode](https://leetcode.com/problems/number-of-provinces/) | Medium | 26 Nov 2026 | 03:17 pm |
+| 331 | [Keys and Rooms](./LeetCode/Medium/Keys%20and%20Rooms) | [LeetCode](https://leetcode.com/problems/keys-and-rooms/) | Medium | 26 Nov 2026 | 03:21 pm |
