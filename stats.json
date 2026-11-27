@@ -1,12 +1,12 @@
 {
-  "totalSolved": 333,
-  "currentStreak": 103,
-  "maxStreak": 103,
-  "lastSyncDate": "2026-11-26",
-  "todayCount": 3,
+  "totalSolved": 334,
+  "currentStreak": 104,
+  "maxStreak": 104,
+  "lastSyncDate": "2026-11-27",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 129,
-    "medium": 119,
+    "medium": 120,
     "hard": 10,
     "basic": 75
   },
@@ -343,7 +343,8 @@
     "LeetCode_Longest_Increasing_Subsequence": true,
     "GeeksForGeeks_BFS_of_Graph": true,
     "LeetCode_Number_of_Provinces": true,
-    "LeetCode_Keys_and_Rooms": true
+    "LeetCode_Keys_and_Rooms": true,
+    "LeetCode_Rotting_Oranges": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -448,11 +449,10 @@
     "2026-11-23": 2,
     "2026-11-24": 2,
     "2026-11-25": 6,
-    "2026-11-26": 3
+    "2026-11-26": 3,
+    "2026-11-27": 1
   },
   "todayProblems": [
-    "BFS of Graph",
-    "Number of Provinces",
-    "Keys and Rooms"
+    "Rotting Oranges"
   ]
 }
