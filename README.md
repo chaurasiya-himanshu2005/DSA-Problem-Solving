@@ -333,3 +333,4 @@
 | 331 | [Keys and Rooms](./LeetCode/Medium/Keys%20and%20Rooms) | [LeetCode](https://leetcode.com/problems/keys-and-rooms/) | Medium | 26 Nov 2026 | 03:21 pm |
 | 332 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 27 Nov 2026 | 03:02 pm |
 | 333 | [Sum of Natural Numbers](./GeeksForGeeks/Basic/Sum%20of%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | Basic | 27 Nov 2026 | 03:03 pm |
+| 334 | [01 Matrix](./LeetCode/Medium/01%20Matrix) | [LeetCode](https://leetcode.com/problems/01-matrix/) | Medium | 27 Nov 2026 | 03:18 pm |
