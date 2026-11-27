@@ -1,14 +1,14 @@
 {
-  "totalSolved": 334,
+  "totalSolved": 335,
   "currentStreak": 104,
   "maxStreak": 104,
   "lastSyncDate": "2026-11-27",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 129,
     "medium": 120,
     "hard": 10,
-    "basic": 75
+    "basic": 76
   },
   "syncedProblems": {
     "GeeksForGeeks_Number_of_factors": true,
@@ -344,7 +344,8 @@
     "GeeksForGeeks_BFS_of_Graph": true,
     "LeetCode_Number_of_Provinces": true,
     "LeetCode_Keys_and_Rooms": true,
-    "LeetCode_Rotting_Oranges": true
+    "LeetCode_Rotting_Oranges": true,
+    "GeeksForGeeks_Sum_of_Natural_Numbers": true
   },
   "activityHistory": {
     "2026-08-16": 3,
@@ -450,9 +451,10 @@
     "2026-11-24": 2,
     "2026-11-25": 6,
     "2026-11-26": 3,
-    "2026-11-27": 1
+    "2026-11-27": 2
   },
   "todayProblems": [
-    "Rotting Oranges"
+    "Rotting Oranges",
+    "Sum of Natural Numbers"
   ]
 }
