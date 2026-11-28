@@ -334,3 +334,4 @@
 | 332 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 27 Nov 2026 | 03:02 pm |
 | 333 | [Sum of Natural Numbers](./GeeksForGeeks/Basic/Sum%20of%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | Basic | 27 Nov 2026 | 03:03 pm |
 | 334 | [01 Matrix](./LeetCode/Medium/01%20Matrix) | [LeetCode](https://leetcode.com/problems/01-matrix/) | Medium | 27 Nov 2026 | 03:18 pm |
+| 335 | [Middle of Linked List](./GeeksForGeeks/Easy/Middle%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | Easy | 28 Nov 2026 | 10:32 am |
